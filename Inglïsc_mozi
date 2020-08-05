@@ -8,17 +8,16 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ġ/h/i/j/k/l/m/n/o/ô/ŏ/p/r/s/t/þ/u/ø/v/w/y/z
 ２文字扱い
 ū/ō/ā/ǣ/ē/ī/ȳ
 分音記号付きの１文字
-ú/ó/á/ǽ/é/í/ý/ǿ（基準音節＝第一強勢）
-ù/ò/à/è/ì（不変化母音）
-ü/ö/ä/ë/ï（直前文字からの分離）
-※上から甲・乙・丙とする。
-
+ú/ó/á/ǽ/é/í/ý/ǿ（甲：基準音節）
+ù/ò/à/è（乙：弱化や変化の阻止）
+ü/ö/ä/ë/ï（丙：直前の文字からの分離）
+į（丁：非語末での HAPPY tensing）
 【点字との対応】
 ⠁ a	⠃ b	⠉ c	⠙ d	⠑ e	⠋ f	⠛ g	⠓ h	⠊ i	⠚ j
 ⠅ k	⠇ l	⠍ m	⠝ n	⠕ o	⠏ p	⠟ q/ġ	⠗ r	⠎ s	⠞ t
 ⠥ u	⠧ v	⠭ x/ç	⠽ y	⠵ z	⠯ ū	⠿ ȳ	⠷ ŏ	⠮ æ	⠾ ǣ
 ⠡ ā	⠣ â	⠩ þ	⠹ ð	⠱ ē	⠫ ê	⠻ ô	⠳ ō	⠪ ī	⠺ w
-※分音記号甲は⠈(4)、乙は⠔(35)を音節の直前、丙は⠂(2)を文字の直前に置いて示す。
+※甲は⠈(4)、乙は⠔(35)を音節の直前に、丙と丁は⠂(2)を分離対象の間に置いて示す。
 ⠥ u	⠯ ū
 ⠕ o	⠳ ō
 ⠁ a	⠡ ā
@@ -29,11 +28,265 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ġ/h/i/j/k/l/m/n/o/ô/ŏ/p/r/s/t/þ/u/ø/v/w/y/z
 ⠬ ø	∅
 ※o に注意。
 【現代語での音価等】
-基本
-細かく説明するべきだとは思うものの、あまりにも大変なので省略する。下記ページの一覧表にて大まかな流れを把握して欲しい。実際の綴りは「Inglïsc: 綴字集」にて。
-
-“Phonological history of English”. Wikipedia. https://en.wikipedia.org/wiki/Phonological_history_of_English#Summary_of_vowel_developments.
-
+凡例
+母音音素は Lexical Set で示す
+子音音素はその最も典型的な異音を略式の IPA で示す
+「V」は母音を担う文字（分音記号丙の付くものを除く）
+「#」は「V」が続かない状態
+「C」は無声子音を担う文字
+「G」は有声子音を担う文字
+「[軟]」は軟口蓋音
+「[唇]」は唇音
+「弱」は強勢が無い状態
+子音を担う文字の単重は音価に影響しないので省略
+⟨a⟩
+a/ea → TRAP, BATH
+a/ea + l# → THOUGHT
+a/ea + lt → THOUGHT, LOT
+w + a/ea + 非[軟] → LOT
+弱 a → commA
+２つの音節の間の弱 a → commA, [∅]
+aw#/eaw#, ag#, au → THOUGHT
+ah/eah + t# → THOUGHT
+ar#/ear# → START
+弱 ar#/ear# → lettER
+w + ar#/ear# → NORTH
+ai → FACE
+弱 ai + G# → KIT, commA
+air# → SQUARE
+ā → GOAT
+āw#, āg#, āh# → GOAT
+āh + t# → THOUGHT
+ār# → FORCE
+ēa → FLEECE
+ēaw# → [j] + GOOSE
+ēar# → NEAR
+⟨â⟩
+主に Open Syllable Lengthening による母音
+â → FACE
+弱 â + G# → KIT, commA
+âr# → SQUARE
+âu → PALM
+⟨æ⟩
+æ → TRAP, BATH
+æ + l# → THOUGHT
+æ + lt → THOUGHT, LOT
+弱 æ → commA
+æj# → FACE
+æw# → THOUGHT
+æh + t# → THOUGHT
+ær# → START
+弱 ær# → lettER
+w + ær# → NORTH
+æjr# → SQUARE
+ǣ → FLEECE
+ǣw# → [j] + GOOSE
+ǣj# → FACE
+ǣr# → NEAR
+⟨b⟩
+b → [b]
+mb# → [m]
+⟨c⟩
+c → [t͡ʃ]
+sc → [ʃ]
+⟨ç⟩
+ラテン語やフランス語での ⟨c⟩ に相当
+ç → [s]
+ç + ør# → [ʃ]
+弱 çi + 弱 V → [ʃ]
+⟨d⟩
+d → [d]
+VC + d → [t]
+Vt + d → [əd]（e.g. “it’d”）
+⟨ð⟩
+ð → [ð]
+⟨e⟩
+e/eo → DRESS
+基準音節の直前の弱 e → KIT
+語頭の弱 e → KIT
+弱 e + t/d, s/z → KIT
+弱 e/eo → commA
+２つの音節の間の弱 e → commA, [∅]
+ew#/eow# → [j] + GOOSE
+ej#, eh#, ei → FACE
+弱 ei + G# → KIT, commA
+er#/eor# → START
+弱 er#/eor# → lettER
+ejr#, eir# → SQUARE
+w + er#/eor# → NORTH
+ē/ēo → FLEECE
+ēw#/ēow# → [j] + GOOSE
+ēj#, ēh# → PRICE
+ēr#/ēor# → NEAR
+ea → TRAP, BATH
+ea + l# → THOUGHT
+w + ea + 非[軟] → LOT
+eaw# → THOUGHT
+eah + t# → THOUGHT
+ear# → START
+弱 ear# → lettER
+w + ear# → NORTH
+ēa → FLEECE
+ēaw# → [j] + GOOSE
+ēar# → NEAR
+⟨ê⟩
+主に Open Syllable Lengthening による母音（long open e）
+ê → FLEECE
+êr# → NEAR
+⟨f⟩
+f → [f]
+⟨g⟩
+g → [g]
+gn + V → [n]
+ng + V → [ŋg]
+ng# → [ŋ]
+ngl# → [ŋgl]
+ngr# → [ŋgr]
+u/o/a, ū/ō/ā + g# → w/u と同様
+⟨ġ⟩
+ġ → [d͡ʒ]
+⟨h⟩
+h → [h]/([x])
+h + l/n/r + V → [∅]
+hw + V → [ʍ], [w]
+V + hs → [ks]
+u/o/a/ea/æ + h# → [f]
+ōh# → MOUTH
+āh# → GOAT
+ah/eah/æh, āh/oh, ōh +t# → THOUGHT
+eh# → FACE
+ēh#, ih#, īh# → PRICE
+⟨i⟩
+i → KIT
+２つの音節の間の弱 i → commA
+語末開音節の弱 i → happY
+弱 i + V → happY
+iw, īw, iu → [j] + GOOSE
+ij#, īj#, ih#, īh# → PRICE
+ir# → NURSE
+弱 ir# → lettER
+oi → CHOICE
+ai, ei → FACE
+弱 ai, ei + G# → KIT, commA
+air#, eir# → SQUARE
+⟨j⟩
+j → [j]
+弱 je/ji → 弱 KIT
+æj#, ǣj#, ej# → FACE
+ēj# → PRICE
+æjr#, ǣjr#, ejr# → SQUARE
+⟨k⟩
+k → [k]
+kn + V → [n]
+⟨l⟩
+l → [l]
+hl + V → [l]
+a/ea/æ/o + l + k# → [∅]
+⟨m⟩
+m → [m]
+mb# → [m]
+mt → [m(p)t]
+⟨n⟩
+n → [n]
+hn, kn/gn + V → [n]
+ng# → [ŋ]
+mn# → [m]
+⟨o⟩
+o → LOT, CLOTH
+o + 有声[軟] → CLOTH
+２つの音節の間の弱 o → commA, [∅]
+ow#, og# → GOAT
+oh + t# → THOUGHT
+or# → NORTH
+弱 or# → lettER
+oi → CHOICE
+ōw#, ōg#, ōh# → MOUTH
+ōh + t# → THOUGHT
+ōr# → FORCE
+e/eo → DRESS
+弱 e/eo → commA
+eow# → [j] + GOOSE
+eor# → START
+弱 eor# → lettER
+w + eor# → NORTH
+eowr → [j] + CURE, FORCE
+ēo → FLEECE
+ēow# → [j] + GOOSE
+ēor# → NEAR
+ēowr → [j] + CURE, FORCE
+⟨ô⟩
+主に Open Syllable Lengthening による母音（long open o）
+ô → GOAT
+ôr# → FORCE
+⟨ŏ⟩
+主に ō の短音化による母音
+ŏ → FOOT
+⟨p⟩
+p → [p]
+ps という onset は無い
+⟨r⟩
+r → [r]（略式 IPA）
+r + [j] → [r] + [∅]
+hr, wr + V → [r]
+ur#, ir#/yr# → NURSE
+or# → NORTH
+w + ar#/ear#/ær#, er#/eor# → NORTH
+ōr#, ôr#/ār# → FORCE
+ar#/ear#/ær#, er#/eor# → START
+air#, âr#, æjr#, ejr#, eir# → SQUARE
+ēar#/ǣr#/êr#, ēr#/ēor# → NEAR
+eowr#, ēowr# → [j] + CURE, FORCE
+ør# → [j] + CURE
+ūr# → MOUTH + lettER
+īr#/ȳr# → PRICE + lettER
+弱 Vr# → lettER
+⟨s⟩
+s → [s]
+V + hs → [ks]
+s + ør# → [ʃ]
+弱 si + 弱 V → [ʃ]
+⟨t⟩
+t → [t]
+ts#/tz# → [t͡s]
+stl# → [sl]
+stn# → [sn]
+⟨þ⟩
+þ → [θ]
+⟨u⟩
+u → STRUT
+[唇] + u + l, sc → FOOT
+弱 u → commA
+２つの音節の間の弱 u → commA, [∅]
+弱 u + V → [w]
+ug#, ūg# → MOUTH
+ur# → NURSE
+au → THOUGHT
+ū → MOUTH
+⟨ø⟩
+ø → [j] + GOOSE
+２つの音節の間の弱 ø → [j] + FOOT
+ør# → CURE
+⟨v⟩
+v → [v]
+⟨w⟩
+w → [w]
+hw + V → [ʍ], [w]
+wr + V → [∅]
+ōw# → MOUTH
+ow#/āw# → GOAT
+aw#/eaw#/æw# → THOUGHT
+ēaw#/ǣw#, ew#/eow#, ēw#/ēow#, iw#/yw#, īw#/ȳw# → [j] + GOOSE
+eowr#, ēowr# → [j] + CURE, FORCE
+⟨y⟩
+y → KIT
+yr# → NURSE
+ȳ → PRICE
+⟨z⟩
+z → [z]
+C + z# → [s]
+tz# → [t͡s]
+s + ør# → [ʃ]
+弱 si + 弱 V → [ʃ]
 同音価の組
 i/y
 s/ç
