@@ -2,7 +2,7 @@
 
 【使用文字一覧】
 １文字扱い
-a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/ǒ/p/r/s/t/þ/u/ø/v/w/y/z
+a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/û/ø/v/w/y/z
 ※q/x は他言語の綴りをそのまま使う場合にのみ現れる。
 
 ２文字扱い
@@ -17,7 +17,7 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/ǒ/p/r/s/t/þ/u/ø/v/w/y/z
 【点字との対応】
 ⠁ a	⠃ b	⠉ c	⠙ d	⠑ e	⠋ f	⠛ g	⠓ h	⠊ i	⠚ j	
 ⠅ k	⠇ l	⠍ m	⠝ n	⠕ o	⠏ p	⠟ ğ/q	⠗ r	⠎ s	⠞ t	⠌ ø
-⠥ u	⠧ v	⠭ ġ/x	⠽ y	⠵ z	⠯ ū	⠿ ȳ	⠷ ŏ	⠮ æ	⠾ ǣ	⠬ ç
+⠥ u	⠧ v	⠭ ġ/x	⠽ y	⠵ z	⠯ ū	⠿ ȳ	⠷ û	⠮ æ	⠾ ǣ	⠬ ç
 ⠡ ā	⠣ â	⠩ þ	⠹ ð	⠱ ē	⠫ ê	⠻ ô	⠳ ō	⠪ ī	⠺ w	
 ※甲は⠈(4)、乙は⠔(35)を音節の直前に、丙と丁は⠂(2)を分離対象の間に置いて示す。
 ⠥ u	⠯ ū
@@ -43,9 +43,9 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/ǒ/p/r/s/t/þ/u/ø/v/w/y/z
 基本的には語頭の音節が第一強勢となり、以降の音節が全て弱化する
 分音記号甲が無く、ô/â/ê, ū/ō/ā/ǣ/ē/ī/ȳ, ù/ò/à/è/ì のどれかがある場合、そこが第一強勢となり、以降の音節が全て弱化する
 分音記号甲がある場合、必ずそこが第一強勢となる
-語頭に分音記号甲がある場合、そこから２つ目の音節は弱化しない
-第一強勢から逆行して２つ目の音節は弱化しない
-分音記号甲が無い限り、単音節の接語はその綴りの音価の範囲で弱化できる
+語頭に分音記号甲がある場合、そこから２つ目の音節は弱化しない（分音記号乙の省略）
+第一強勢から逆行して２つ目の音節は弱化しない（分音記号乙の省略）
+分音記号甲が無い限り、単音節の接語はその綴りの音価の範囲で弱化できる（分音記号乙は無視）
 前後の要素が共に弱化していない複合語では間にハイフンを挟む
 ハイフンの前後のどちらが第一強勢なのかは特に示さない
 ⟨a⟩
@@ -55,6 +55,7 @@ a/ea + lt → THOUGHT, LOT
 w + a/ea + 非[軟] → LOT
 弱 a → commA
 ２つの音節の間の弱 a → commA, [∅]
+à → TRAP
 aw#/eaw#, ağ#, au → THOUGHT
 ah/eah + t# → THOUGHT
 ar#/ear# → START
@@ -64,7 +65,8 @@ ai → FACE
 弱 ai + G# → KIT, commA
 air# → SQUARE
 ā → GOAT
-āw#, āğ#, āh# → GOAT
+ā + h# → CLOTH
+āw#, āğ# → GOAT
 āh + t# → THOUGHT
 ār# → FORCE
 ēa → FLEECE
@@ -110,6 +112,7 @@ Vt + d# → [əd]（e.g. “it’d”）
 ※r の直前での摩擦音化は個別的な変化とみなした。
 
 ⟨ð⟩
+þ と未分化だった
 ð → [ð]
 ⟨e⟩
 e/eo → DRESS
@@ -118,6 +121,7 @@ e/eo → DRESS
 弱 e + t/d, s/z → KIT
 弱 e/eo → commA
 ２つの音節の間の弱 e → commA, [∅]
+è → DRESS
 ew#/eow# → [j] + GOOSE
 eğ#, eh#, ei → FACE
 弱 ei + G# → KIT, commA
@@ -165,15 +169,13 @@ iğ#, ēğ#, īğ# → PRICE
 古英語に於いては ğ と未分化だったと解釈
 ġ → [d͡ʒ]
 ⟨h⟩
-h → [h]/([x])
+h → [h]
 h + 弱 V → [h], [∅]
 h + l/n/r + V → [∅]
 hw + V → [ʍ], [w]
 V + hs → [ks]
-u/o/a/ea/æ + h# → [f]
-ōh# → MOUTH
-āh# → GOAT
-ah/eah/æh, āh/oh, ōh + t# → THOUGHT
+a/ea/æ, o/ā, u/ō, ū + h# → [f]
+ah/eah/æh, oh/āh, ōh + t# → THOUGHT
 eh# → FACE
 ēh#, ih#, īh# → PRICE
 ⟨i⟩
@@ -181,6 +183,7 @@ i → KIT
 ２つの音節の間の弱 i → commA
 語末開音節の弱 i → happY
 弱 i + V → happY
+ì → KIT
 iw, īw, iu → [j] + GOOSE
 iğ#, īğ#, ih#, īh# → PRICE
 ir# → NURSE
@@ -214,12 +217,15 @@ o + 有声[軟] → CLOTH
 o + l# → GOAT
 弱 o → commA
 ２つの音節の間の弱 o → commA, [∅]
+ò → LOT
 ow#, oğ# → GOAT
 oh + t# → THOUGHT
 or# → NORTH
 弱 or# → lettER
 oi → CHOICE
-ōw#, ōğ#, ōh# → MOUTH
+ō → GOOSE
+ō + h# → STRUT
+ōw#, ōğ# → MOUTH
 ōh + t# → THOUGHT
 ōr# → FORCE
 e/eo → DRESS
@@ -237,13 +243,6 @@ eowr → [j] + CURE, FORCE
 主に Open Syllable Lengthening による母音（long open o）
 ô → GOAT
 ôr# → FORCE
-⟨ǒ⟩
-主に ō の短音化による母音
-ǒ → FOOT
-※o ではなく ō の短音化であるということと、ğ の存在とから、ブレーヴェを使うのは避けた。
-
-関連：OE wull > ME wǒl > ModE wool
-
 ⟨p⟩
 p → [p]
 ps という onset は無い
@@ -277,20 +276,27 @@ stn# → [sn]
 þ → [θ]
 ⟨u⟩
 u → STRUT
-[唇] + u + l, sc → FOOT
 弱 u → commA
 ２つの音節の間の弱 u → commA, [∅]
+ù → STRUT
 弱 u + V → [w]
 uğ#, ūğ# → MOUTH
 ur# → NURSE
 au → THOUGHT
 ū → MOUTH
+⟨û⟩
+u と未分化だった
+ō から例外的に短音化したものを含む（“wood” は Open Syllable Lengthening でもある）
+û → FOOT
+弱 û → commA
+ûr → CURE
 ⟨ø⟩
 ラテン語やフランス語での ⟨u⟩ に相当
 ø → [j] + GOOSE
 ２つの音節の間の弱 ø → [j] + FOOT
 ør# → CURE
 ⟨v⟩
+f と未分化だった
 v → [v]
 ⟨w⟩
 w → [w]
@@ -306,6 +312,7 @@ y → KIT
 yr# → NURSE
 ȳ → PRICE
 ⟨z⟩
+s と未分化だった
 z → [z]
 C + z# → [s]
 tz# → [t͡s]
@@ -325,7 +332,7 @@ s/ç
 ğ → g
 ġ → g
 ô → o
-ǒ → o
 þ → t
+û → u
 ø → u
 ※マクロンや分音記号が使えない場合はそれらを外した文字をそのまま使う。
