@@ -105,7 +105,7 @@ b → [b]
 mb# → [m]
 ⟨c⟩
 c → [t͡ʃ]
-sc → [ʃ]
+sc → [ʃ]（前後が共に強音節である場合を除く）
 ⟨ç⟩
 ラテン語やフランス語での ⟨c⟩ に相当
 ç → [s]
@@ -155,9 +155,10 @@ f → [f]
 ⟨g⟩
 g → [g]
 gn + V → [n]
-ng + V, w → [ŋg]
+ng + V → [ŋg]
 ngl# → [ŋgl]
 ngr# → [ŋgr]
+ngw# → [ŋgw]
 ng# → [ŋ]
 ⟨ğ⟩
 古英語に於いては口蓋性について中立な有声摩擦音を担っていたと解釈
@@ -175,7 +176,7 @@ h → [h]
 h + 弱 V → [h], [∅]
 h + l/n/r + V → [∅]
 hw + V → [ʍ], [w]
-V + hs → [ks]
+V + hs# → [ks]
 a/ea/æ, o/ā, u/ō + h# → [f]
 ah/eah/æh, oh/āh, ōh + t# → THOUGHT
 eh → FACE
@@ -267,7 +268,8 @@ eowr#, ēowr# → [j] + CURE, FORCE
 弱 Vr# → LETTER
 ⟨s⟩
 s → [s]
-V + hs → [ks]
+sc → [ʃ]（前後が共に強音節である場合を除く）
+V + hs# → [ks]
 s + ør# → [ʃ]
 弱 si + 弱 V → [ʃ]
 ⟨t⟩
@@ -285,7 +287,7 @@ uğ, ūğ → MOUTH
 ur# → NURSE
 au → THOUGHT
 ū → MOUTH
-※ui の存在は無視する。
+※ui の存在は無視する。（参照：堀田隆一.「#4109. boil, loin, point — 中英語 ui から綴字発音へ」hellog～英語史ブログ. http://user.keio.ac.jp/~rhotta/hellog/2020-07-27-1.html.）
 
 ⟨ů⟩
 u と未分化だった
