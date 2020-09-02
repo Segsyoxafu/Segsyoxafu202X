@@ -1,5 +1,3 @@
-親ページ：Inglïsc
-
 【使用文字一覧】
 １文字扱い
 a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
@@ -41,7 +39,6 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 子音音素はその最も典型的な異音を略式の IPA で示す
 「V」は母音を担う文字（トレマの付いたものを除く）
 「C」は無声子音を担う文字
-「[軟]」は軟口蓋音を担う文字
 「#」は「V」が続かない状態
 「弱」は弱化した状態
 ※子音を担う文字の単重は音価に影響しないので省略した。
@@ -57,10 +54,11 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 強音節同士の相対的な強弱は無視する（関連：韻脚, 品詞, レーマ）
 ⟨a⟩
 古英語では â と未分化だった
-a/ea → TRAP, BATH
+a/ea → TRAP
+a/ea + f#/þ#/s#, ðz → BATH
 a/ea + l# → THOUGHT
 a/ea + lt → THOUGHT, LOT
-w + a/ea + 非[軟] → LOT
+w + a/ea → LOT（+ k#/g#, nk/ng を除く）
 弱 a → COMMA
 ２つの音節の間の弱 a → COMMA, [∅]
 à → TRAP
@@ -86,9 +84,11 @@ air# → SQUARE
 âr# → SQUARE
 âu → PALM
 ⟨æ⟩
-æ → TRAP, BATH
+æ → TRAP
+æ + f#/þ#/s#, ðz → BATH
 æ + l# → THOUGHT
 æ + lt → THOUGHT, LOT
+w + æ → LOT（+ k#/g#, nk/ng を除く）
 弱 æ → COMMA
 æğ → FACE
 æw → THOUGHT
@@ -137,9 +137,10 @@ w + er#/eor# → NORTH
 ēw/ēow → [j] + GOOSE
 ēğ, ēh → PRIDE
 ēr#/ēor# → NEAR
-ea → TRAP, BATH
+ea → TRAP
+ea + f#/þ#/s#, ðz → BATH
 ea + l# → THOUGHT
-w + ea + 非[軟] → LOT
+w + ea → LOT（+ k#/g#, nk/ng を除く）
 eaw → THOUGHT
 eah + t# → THOUGHT
 ear# → START
@@ -159,7 +160,7 @@ f → [f]
 ⟨g⟩
 g → [g]
 gn + V → [n]
-ng + V → [ŋg]
+ng + 弱 V → [ŋg]
 ngl# → [ŋgl]
 ngr# → [ŋgr]
 ngw# → [ŋgw]
@@ -218,12 +219,17 @@ mb# → [m]
 ⟨n⟩
 n → [n]
 hn, kn/gn + V → [n]
+ng + 弱 V → [ŋg]
+ngl# → [ŋgl]
+ngr# → [ŋgr]
+ngw# → [ŋgw]
 ng# → [ŋ]
 mn# → [m]
 ⟨o⟩
 古英語では ô と未分化だった
-o → LOT, CLOTH
-o + 有声[軟] → CLOTH
+o → LOT
+o + f#/þ#/s#, ðz, g#, ng → CLOTH
+o + n# → CLOTH（coda が n のみの場合）
 o + l# → GOAT
 弱 o → COMMA
 ２つの音節の間の弱 o → COMMA, [∅]
@@ -286,6 +292,8 @@ t → [t]
 ts#/tz# → [t͡s]
 stl# → [sl]
 stn# → [sn]
+※stl#/stn# 以外での [t] の脱落は個別的な変化とみなす。
+
 ⟨þ⟩
 古英語では ð と未分化だった
 þ → [θ]
