@@ -1,3 +1,4 @@
+編集する
 親ページ：Inglïsc
 
 更新日：2020-09-04
@@ -62,7 +63,7 @@ a/ea → TRAP
 a/ea + f#/þ#/s#, ðz → BATH
 a/ea + l# → THOUGHT
 a/ea + lt → THOUGHT, LOT
-w + a/ea → LOT（+ k#/g#, nk/ng を除く）
+w + a/ea → LOT（+ k/g, nk/ng を除く）
 弱 a → COMMA
 ２つの音節の間の弱 a → COMMA, [∅]
 à → TRAP
@@ -92,7 +93,7 @@ air# → SQUARE
 æ + f#/þ#/s#, ðz → BATH
 æ + l# → THOUGHT
 æ + lt → THOUGHT, LOT
-w + æ → LOT（+ k#/g#, nk/ng を除く）
+w + æ → LOT（+ k/g, nk/ng を除く）
 弱 æ → COMMA
 æğ → FACE
 æw → THOUGHT
@@ -144,7 +145,7 @@ w + er#/eor# → NORTH
 ea → TRAP
 ea + f#/þ#/s#, ðz → BATH
 ea + l# → THOUGHT
-w + ea → LOT（+ k#/g#, nk/ng を除く）
+w + ea → LOT（+ k/g, nk/ng を除く）
 eaw → THOUGHT
 eah + t# → THOUGHT
 ear# → START
@@ -217,6 +218,8 @@ l → [l]
 hl + V → [l]
 l + [j] → [l] + [j]/[∅]
 a/ea/æ/o + l + k# → [∅]
+※“half/which” などに於ける [l] の脱落は個別的な変化とみなす。
+
 ⟨m⟩
 m → [m]
 mb# → [m]
@@ -370,5 +373,5 @@ s/ç
 新しい借用語などには上記の規則による記述ができないものがある。その様な単語はまだ英語の音韻体系に定着し切っていないとみなし、下記の何れかで対応する。
 
 原語の綴りをイタリック体にして使う
-記述可能になる様に中黒で区切る
+記述可能になる様に中黒（点字は⠠）で区切る
 IPA を利用する
