@@ -1,3 +1,7 @@
+親ページ：Inglïsc
+
+更新日：2020-09-04
+
 【使用文字一覧】
 １文字扱い
 a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
@@ -11,7 +15,7 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 ú/ó/á/ǽ/é/í/ý/ǿ（鋭記号：例外的な強音節）
 ò/à/(æ̀)（鈍記号：例外的な LOT/TRAP）
 ü/ö/ä/ë/ï（トレマ：直前の文字からの分離）
-į（オゴネク：直後の文字からの分離）
+į（オゴネク：語末以外での HAPPY tensing）
 【点字との対応】
 ⠁ a	⠃ b	⠉ c	⠙ d	⠑ e	⠋ f	⠛ g	⠓ h	⠊ i	⠚ j
 ⠅ k	⠇ l	⠍ m	⠝ n	⠕ o	⠏ p	⠟ ğ/q	⠗ r	⠎ s	⠞ t
@@ -70,7 +74,7 @@ w + ar#/ear# → NORTH
 ai → FACE
 air# → SQUARE
 ā → GOAT
-ā + h# → CLOTH
+ā + h → CLOTH
 āw, āğ → GOAT
 āh + t# → THOUGHT
 ār# → FORCE
@@ -182,7 +186,7 @@ h + 弱 V → [h], [∅]
 h + l/n/r + V → [∅]
 hw + V → [ʍ], [w]
 V + hs# → [ks]
-a/ea/æ, o/ā, u/ō + h# → [f]
+a/ea/æ, o/ā, u/ō + h → [f]
 ah/eah/æh, oh/āh, ōh + t# → THOUGHT
 eh → FACE
 ēh, ih, īh → PRIDE
@@ -240,7 +244,7 @@ or# → NORTH
 弱 or# → LETTER
 oi → VOICE
 ō → GOOSE（接語では短音化することも）
-ō + h# → STRUT
+ō + h → STRUT
 ōw, ōğ → MOUTH
 ōh + t# → THOUGHT
 ōr# → FORCE
@@ -366,5 +370,5 @@ s/ç
 新しい借用語などには上記の規則による記述ができないものがある。その様な単語はまだ英語の音韻体系に定着し切っていないとみなし、下記の何れかで対応する。
 
 原語の綴りをイタリック体にして使う
-便宜的に各音節を自立可能な形態素とみなして綴り、それらをハイフンで繋ぐ
+記述可能になる様に中黒で区切る
 IPA を利用する
