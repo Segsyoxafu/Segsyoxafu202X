@@ -1,6 +1,6 @@
 親ページ：Inglïsc
 
-更新日：2020-09-04
+更新日：2020-09-25
 
 【使用文字一覧】
 １文字扱い
@@ -12,10 +12,17 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 ※u/o/a/æ/e/i/y に超分節音素を担う文字マクロンが付いている。
 
 分音記号付きの１文字
-ú/ó/á/ǽ/é/í/ý/ǿ（鋭記号：例外的な強音節）
-ò/à/(æ̀)（鈍記号：例外的な LOT/TRAP）
-ü/ö/ä/ë/ï（トレマ：直前の文字からの分離）
-į（オゴネク：語末以外での HAPPY tensing）
+ú/ó/á/ǽ/é/í/ý/ǿ, ǒ/ǎ（鋭記号）
+例外的な強勢を示す
+ǒ/ǎ は ò/à に鋭記号を付けたもの
+ù/ò/à/(æ̀)/è/ì/(ỳ)（鈍記号）
+母音の弱化を妨げる
+強勢とは限らない
+òr/àr を除き、ò/à は常に LOT/TRAP を担う
+ü/ö/ä/ë/ï（トレマ）
+直前の文字までの音価の纏まりを示す
+į（オゴネク）
+語末以外での HAPPY tensing を示す
 【点字との対応】
 ⠁ a	⠃ b	⠉ c	⠙ d	⠑ e	⠋ f	⠛ g	⠓ h	⠊ i	⠚ j
 ⠅ k	⠇ l	⠍ m	⠝ n	⠕ o	⠏ p	⠟ ğ/q	⠗ r	⠎ s	⠞ t
@@ -37,6 +44,7 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 ⠔	対象音節に前置	鈍記号
 ⠂	対象文字に前置	トレマ
 ⠂	対象文字に後置	オゴネク
+※ǒ/ǎ は⠜とする。
 【現代語での音価等】
 凡例
 母音音素は Lexical Set で示す（参照：British English, U.S. English）
@@ -45,17 +53,21 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 「C」は無声子音を担う文字
 「#」は「V」が続かない状態
 「弱」は弱化した状態
-※子音を担う文字の単重は音価に影響しないので省略した。
+※単子音か重子音かは音価に影響しないので省略した。（onset に於ける子音連結とその直前の音節の coda とで重子音を成すことは無い）
 
 音節の強弱等
-基本的には語頭の音節のみが強音節となる
-強音節では onset と coda が最大になる
-強音節以外は全て弱化する
-複合語の前後の要素が共に自立可能な形態を維持している場合、その間にハイフンを挟む
-接語は常に強形を基に綴る（接語の弱形は複音節語に於ける固定された弱化とは異なるものとみなす）
+強勢では onset と coda が最大になる
+基本的には語頭の音節のみが強勢となる
+強勢から逆行して２つ目の音節は弱化しない
+ū/ō/ā/ǣ/ē/ī/ȳ, ô/â/ê, ů は常に強勢を担う
+接語は常に強形を基に綴る
+接語の弱形は複音節語に於ける固定された弱化とは異なるものとみなす
 不定冠詞 “an/a” は an/â、定冠詞 “the” は ðē/ð とする
-弱形の有無は区別しない（鋭記号などにもその様な機能は与えない）
-強音節同士の相対的な強弱は無視する（関連：韻脚, 品詞, レーマ）
+弱形の有無は区別しない
+複合語の前後の要素が共に自立可能な形態を維持している場合、その間にハイフンを挟む
+強勢同士の相対的な強弱は無視する
+参照：内海淳「複合語の強勢」英語形態論. 2010. http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_c5_ja.html#doc1_id2801.
+
 ⟨a⟩
 古英語では â と未分化だった
 a/ea → TRAP
@@ -64,7 +76,7 @@ a/ea + l# → THOUGHT
 a/ea + lt → THOUGHT, LOT
 w + a/ea → LOT（+ k/g, nk/ng を除く）
 弱 a → COMMA
-２つの音節の間の弱 a → COMMA, [∅]
+２つの音節の間の弱 a → COMMA
 à → TRAP
 aw/eaw, ağ, au → THOUGHT
 ah/eah + t# → THOUGHT
@@ -110,8 +122,9 @@ b → [b]
 mb# → [m]
 ⟨c⟩
 c → [t͡ʃ]
-sc → [ʃ]（前後が共に強音節である場合を除く）
+sc → [ʃ]（前後が共に強母音である場合を除く）
 ⟨ç⟩
+「Ç」Wikipedia. https://ja.wikipedia.org/wiki/%C3%87.
 ラテン語やフランス語での ⟨c⟩ に相当
 ç → [s]
 ç + ør# → [ʃ]
@@ -127,10 +140,8 @@ C + d# → [t]（ここでの C は t/d を除く）
 ⟨e⟩
 古英語では ê と未分化だった
 e/eo → DRESS
-語頭の弱開音節 e → BECAUSE
-弱 e + t#/d#, s#/z# → ADDED, AIDED
 弱 e/eo → COMMA
-２つの音節の間の弱 e → COMMA, [∅]
+２つの音節の間の弱 e → COMMA
 ew/eow → [j] + GOOSE
 eğ, eh, ei → FACE
 er#/eor# → START
@@ -170,6 +181,7 @@ ngr# → [ŋgr]
 ngw# → [ŋgw]
 ng# → [ŋ]
 ⟨ğ⟩
+「Ğ」Wikipedia. https://ja.wikipedia.org/wiki/%C4%9E.
 古英語に於いては ġ と未分化で、主に口蓋性について中立な有声舌背摩擦音を担っていたとみなす
 uğ, ūğ, ōğ → MOUTH
 oğ, āğ → GOAT
@@ -191,10 +203,10 @@ ah/eah/æh, oh/āh, ōh + t# → THOUGHT
 eh → FACE
 ēh, ih, īh → PRIDE
 ⟨i⟩
-i → KIT, RABBIT
+i → KIT, RABBIT, BECAUSE
 ２つの音節の間の弱 i → RABBIT, COMMA
 語末開音節の弱 i → HAPPY
-弱 i + V → PIANO, HAPPY
+弱 i + V → PIANO
 iw, īw, iu → [j] + GOOSE
 iğ, īğ, ih, īh → PRIDE
 ir# → NURSE（er# に由来するものを含む）
@@ -205,9 +217,10 @@ air#, eir# → SQUARE
 弱 si + 弱 V → [ʃ]
 弱 zi + 弱 V → [ʒ]
 ⟨j⟩
+「J」Wikipedia. https://ja.wikipedia.org/wiki/J#%E6%AD%B4%E5%8F%B2.
 j + V → [j]
 弱 je/ji → BECAUSE
-※基準時代が古英語期なので、当時既に ğ と中和していた部分（強音節に於ける前舌母音の直前）もこの文字で綴る
+※基準時代が古英語期なので、当時既に ğ と中和していた部分（強勢に於ける前舌母音の直前）もこの文字で綴る
 
 ⟨k⟩
 k → [k]
@@ -238,7 +251,7 @@ o + f#/þ#/s#, ðz, g#, ng → CLOTH
 o + n# → CLOTH（coda が n のみの場合）
 o + l# → GOAT
 弱 o → COMMA
-２つの音節の間の弱 o → COMMA, [∅]
+２つの音節の間の弱 o → COMMA
 ò → LOT
 ow, oğ → GOAT
 oh + t# → THOUGHT
@@ -289,7 +302,7 @@ eowr#, ēowr# → [j] + CURE, FORCE
 ⟨s⟩
 古英語では z と未分化だった
 s → [s]
-sc → [ʃ]（前後が共に強音節である場合を除く）
+sc → [ʃ]（前後の母音がどちらも弱化していない場合を除く）
 V + hs# → [ks]
 s + ør# → [ʃ]
 弱 si + 弱 V → [ʃ]
@@ -307,19 +320,23 @@ stn# → [sn]
 １６世紀までは ů と未分化だった
 u → STRUT
 弱 u → COMMA
-２つの音節の間の弱 u → COMMA, [∅]
+２つの音節の間の弱 u → COMMA
 uğ, ūğ → MOUTH
 ur# → NURSE
 au → THOUGHT
 ū → MOUTH
-※ui の存在は無視する。（参照：堀田隆一.「#4109. boil, loin, point — 中英語 ui から綴字発音へ」hellog～英語史ブログ. http://user.keio.ac.jp/~rhotta/hellog/2020-07-27-1.html.）
+※ui の存在は無視する。
+
+参照：堀田隆一.「#4109. boil, loin, point — 中英語 ui から綴字発音へ」hellog～英語史ブログ. http://user.keio.ac.jp/~rhotta/hellog/2020-07-27-1.html.
 
 ⟨ů⟩
+「Ů」Wikipedia. https://ja.wikipedia.org/wiki/%C5%AE.
 １６世紀までは u と未分化だった
 ō から例外的に短音化したものを含む
 ů → FOOT
 ůr → CURE
 ⟨ø⟩
+「Ø」Wikipedia. https://ja.wikipedia.org/wiki/%C3%98.
 ラテン語やフランス語での ⟨u⟩ に相当
 ø → [j] + GOOSE
 弱 ø → [j] + FOOT
