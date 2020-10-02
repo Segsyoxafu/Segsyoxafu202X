@@ -1,1 +1,25 @@
+親ページ：Nixongo
+
+更新日：2020-10-02
+
+【圧縮】
+下記の条件を全て満たす音節から u/o/a/e/i（以下「母音字」）を下記の手順で省略すると、綴りから得られる情報を損なうことなく文字数を大幅に削減できる。
+
+条件
+極や分音記号を持たない
+軽音節である（coda を持たない）
+省略後に残る onset が coda と誤解されることが無い（t/p/n/m や kk/ss/tt/pp/xx が発生しない）
+手順
+a による軽音節のみからなる単語に於いて、全ての a を省略
+同じ母音字による軽音節の連続に於いて、その最初以外の母音字を省略（順行圧縮）
+同じ母音字による軽音節の語頭からの連続に於いて、その最後以外の母音字を省略（逆行圧縮）
+【Nixongo からの漢字変換】
+※渡邉はパソコンにとても疎いので、下記のツールに関するご質問には答えることができません。
+
+RIME | 中州韻輸入法引擎（中国語）を介したもの
+Mag462, .sozysozbot.. “SSXKZH”. 2017. https://www.dropbox.com/sh/3fxcvpr1yek5z7s/AABBLbggno9-v68h9tfoouAga?dl=0.
+
+
+CorvusSKK を介したもの
+the loyaltouch.「漢語熟語に対応したSegsyoxafu版SKK辞書（仮名）」2020. https://raw.githubusercontent.com/loyaltouch/Skk-Mode/master/skk/SKK-JISYO.segsyoxafu.sort.L.
 
