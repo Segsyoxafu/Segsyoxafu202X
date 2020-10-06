@@ -1,6 +1,6 @@
 親ページ：Inglïsc
 
-更新日：2020-09-25
+更新日：2020-10-06
 
 【使用文字一覧】
 １文字扱い
@@ -47,7 +47,7 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 ※ǒ/ǎ は⠜とする。
 【現代語での音価等】
 凡例
-母音音素は Lexical Set で示す（参照：British English, U.S. English）
+母音音素は Lexical Set で示す
 子音音素はその最も典型的な異音を略式の IPA で示す
 「V」は母音を担う文字（トレマの付いたものを除く）
 「C」は無声子音を担う文字
@@ -55,9 +55,11 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 「弱」は弱化した状態
 ※単子音か重子音かは音価に影響しないので省略した。（onset に於ける子音連結とその直前の音節の coda とで重子音を成すことは無い）
 
+関連文献
+“Pronunciations”. Oxford University Press. https://public.oed.com/how-to-use-the-oed/key-to-pronunciation/.
 音節の強弱等
 強勢では onset と coda が最大になる
-基本的には語頭の音節のみが強勢となる
+基本的に語頭の音節のみが強勢となる
 強勢から逆行して２つ目の音節は弱化しない
 ū/ō/ā/ǣ/ē/ī/ȳ, ô/â/ê, ů は常に強勢を担う
 接語は常に強形を基に綴る
@@ -66,18 +68,17 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 弱形の有無は区別しない
 複合語の前後の要素が共に自立可能な形態を維持している場合、その間にハイフンを挟む
 強勢同士の相対的な強弱は無視する
-参照：内海淳「複合語の強勢」英語形態論. 2010. http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_c5_ja.html#doc1_id2801.
-
+関連文献
+内海淳「複合語の強勢」英語形態論. 2010. http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_c5_ja.html#doc1_id2801.
 ⟨a⟩
 古英語では â と未分化だった
 a/ea → TRAP
-a/ea + f#/þ#/s#, ðz → BATH
+a/ea + f#/þ#/s#, ðz# → BATH
 a/ea + l# → THOUGHT
 a/ea + lt → THOUGHT, LOT
 w + a/ea → LOT（+ k/g, nk/ng を除く）
 弱 a → COMMA
 ２つの音節の間の弱 a → COMMA
-à → TRAP
 aw/eaw, ağ, au → THOUGHT
 ah/eah + t# → THOUGHT
 ar#/ear# → START
@@ -101,7 +102,7 @@ air# → SQUARE
 âu → PALM
 ⟨æ⟩
 æ → TRAP
-æ + f#/þ#/s#, ðz → BATH
+æ + f#/þ#/s#, ðz# → BATH
 æ + l# → THOUGHT
 æ + lt → THOUGHT, LOT
 w + æ → LOT（+ k/g, nk/ng を除く）
@@ -131,6 +132,7 @@ sc → [ʃ]（前後が共に強母音である場合を除く）
 弱 çi + 弱 V → [ʃ]
 ⟨d⟩
 d → [d]
+弱 di + 弱 V → [d͡ʒ]
 C + d# → [t]（ここでの C は t/d を除く）
 ※r の直前での摩擦音化は例外的な変化とみなす。
 
@@ -153,7 +155,7 @@ w + er#/eor# → NORTH
 ēğ, ēh → PRIDE
 ēr#/ēor# → NEAR
 ea → TRAP
-ea + f#/þ#/s#, ðz → BATH
+ea + f#/þ#/s#, ðz# → BATH
 ea + l# → THOUGHT
 w + ea → LOT（+ k/g, nk/ng を除く）
 eaw → THOUGHT
@@ -252,7 +254,6 @@ o + n# → CLOTH（coda が n のみの場合）
 o + l# → GOAT
 弱 o → COMMA
 ２つの音節の間の弱 o → COMMA
-ò → LOT
 ow, oğ → GOAT
 oh + t# → THOUGHT
 or# → NORTH
@@ -309,6 +310,7 @@ s + ør# → [ʃ]
 ⟨t⟩
 t → [t]
 ts#/tz# → [t͡s]
+弱 ti + 弱 V → [t͡ʃ]
 stl# → [sl]
 stn# → [sn]
 ※stl#/stn# 以外での [t] の脱落は例外的な変化とみなす。
@@ -327,8 +329,8 @@ au → THOUGHT
 ū → MOUTH
 ※ui の存在は無視する。
 
-参照：堀田隆一.「#4109. boil, loin, point — 中英語 ui から綴字発音へ」hellog～英語史ブログ. http://user.keio.ac.jp/~rhotta/hellog/2020-07-27-1.html.
-
+関連文献
+堀田隆一.「#4109. boil, loin, point — 中英語 ui から綴字発音へ」hellog～英語史ブログ. http://user.keio.ac.jp/~rhotta/hellog/2020-07-27-1.html.
 ⟨ů⟩
 「Ů」Wikipedia. https://ja.wikipedia.org/wiki/%C5%AE.
 １６世紀までは u と未分化だった
