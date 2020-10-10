@@ -1,6 +1,6 @@
 親ページ：Inglïsc
 
-更新日：2020-10-06
+更新日：2020-10-11
 
 【使用文字一覧】
 １文字扱い
@@ -9,20 +9,25 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 
 ２文字扱い
 ū/ō/ā/ǣ/ē/ī/ȳ
-※u/o/a/æ/e/i/y に超分節音素を担う文字マクロンが付いている。
-
+u/o/a/æ/e/i/y に超分節音素を担うマクロンを付けたもの
 分音記号付きの１文字
-ú/ó/á/ǽ/é/í/ý/ǿ, ǒ/ǎ（鋭記号）
+ú/ó/á/ǽ/é/í/ý/ǿ, ǒ/ǎ
 例外的な強勢を示す
-ǒ/ǎ は ò/à に鋭記号を付けたもの
-ù/ò/à/(æ̀)/è/ì/(ỳ)（鈍記号）
+ǒ/ǎ は ò/à にアキュート・アクセントを付けたもの
+ù/ò/à/(æ̀)/è/ì/(ỳ)
 母音の弱化を妨げる
 強勢とは限らない
 òr/àr を除き、ò/à は常に LOT/TRAP を担う
-ü/ö/ä/ë/ï（トレマ）
+ü/ö/ä/ë/ï
 直前の文字までの音価の纏まりを示す
-į（オゴネク）
+į
 語末以外での HAPPY tensing を示す
+関連文献
+「マクロン」Wikipedia. https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%B3.
+「アキュート・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88.
+「グレイヴ・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88.
+「トレマ」Wikipedia. https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%9E.
+「オゴネク」Wikipedia. https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B4%E3%83%8D%E3%82%AF.
 【点字との対応】
 ⠁ a	⠃ b	⠉ c	⠙ d	⠑ e	⠋ f	⠛ g	⠓ h	⠊ i	⠚ j
 ⠅ k	⠇ l	⠍ m	⠝ n	⠕ o	⠏ p	⠟ ğ/q	⠗ r	⠎ s	⠞ t
@@ -40,8 +45,8 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 ⠊ i	⠪ ī
 ⠽ y	⠿ ȳ
 ※o に注意。
-⠈	対象音節に前置	鋭記号
-⠔	対象音節に前置	鈍記号
+⠈	対象音節に前置	アキュート・アクセント
+⠔	対象音節に前置	グレイヴ・アクセント
 ⠂	対象文字に前置	トレマ
 ⠂	対象文字に後置	オゴネク
 ※ǒ/ǎ は⠜とする。
@@ -125,11 +130,12 @@ mb# → [m]
 c → [t͡ʃ]
 sc → [ʃ]（前後が共に強母音である場合を除く）
 ⟨ç⟩
-「Ç」Wikipedia. https://ja.wikipedia.org/wiki/%C3%87.
 ラテン語やフランス語での ⟨c⟩ に相当
 ç → [s]
 ç + ør# → [ʃ]
 弱 çi + 弱 V → [ʃ]
+関連文献
+「Ç」Wikipedia. https://ja.wikipedia.org/wiki/%C3%87.
 ⟨d⟩
 d → [d]
 弱 di + 弱 V → [d͡ʒ]
@@ -183,7 +189,6 @@ ngr# → [ŋgr]
 ngw# → [ŋgw]
 ng# → [ŋ]
 ⟨ğ⟩
-「Ğ」Wikipedia. https://ja.wikipedia.org/wiki/%C4%9E.
 古英語に於いては ġ と未分化で、主に口蓋性について中立な有声舌背摩擦音を担っていたとみなす
 uğ, ūğ, ōğ → MOUTH
 oğ, āğ → GOAT
@@ -191,6 +196,8 @@ ağ → THOUGHT
 æğ, eğ, ǣğ → FACE
 iğ, ēğ, īğ → PRIDE
 æğr#, eğr#, ǣğr#, → SQUARE
+関連文献
+「Ğ」Wikipedia. https://ja.wikipedia.org/wiki/%C4%9E.
 ⟨ġ⟩
 古英語に於いては ğ と未分化で、主に口蓋性について中立な有声舌背摩擦音を担っていたとみなす
 ġ → [d͡ʒ]
@@ -219,11 +226,12 @@ air#, eir# → SQUARE
 弱 si + 弱 V → [ʃ]
 弱 zi + 弱 V → [ʒ]
 ⟨j⟩
-「J」Wikipedia. https://ja.wikipedia.org/wiki/J#%E6%AD%B4%E5%8F%B2.
 j + V → [j]
 弱 je/ji → BECAUSE
 ※基準時代が古英語期なので、当時既に ğ と中和していた部分（強勢に於ける前舌母音の直前）もこの文字で綴る
 
+関連文献
+「J」Wikipedia. https://ja.wikipedia.org/wiki/J#%E6%AD%B4%E5%8F%B2.
 ⟨k⟩
 k → [k]
 kn + V → [n]
@@ -240,7 +248,7 @@ mb# → [m]
 ⟨n⟩
 n → [n]
 hn, kn/gn + V → [n]
-ng + 弱 V → [ŋg]
+ng + V → [ŋg]
 ngl# → [ŋgl]
 ngr# → [ŋgr]
 ngw# → [ŋgw]
@@ -249,7 +257,7 @@ mn# → [m]
 ⟨o⟩
 古英語では ô と未分化だった
 o → LOT
-o + f#/þ#/s#, ðz, g#, ng → CLOTH
+o + f#/þ#/s#, ðz#, g#, ng# → CLOTH
 o + n# → CLOTH（coda が n のみの場合）
 o + l# → GOAT
 弱 o → COMMA
@@ -332,17 +340,19 @@ au → THOUGHT
 関連文献
 堀田隆一.「#4109. boil, loin, point — 中英語 ui から綴字発音へ」hellog～英語史ブログ. http://user.keio.ac.jp/~rhotta/hellog/2020-07-27-1.html.
 ⟨ů⟩
-「Ů」Wikipedia. https://ja.wikipedia.org/wiki/%C5%AE.
 １６世紀までは u と未分化だった
 ō から例外的に短音化したものを含む
 ů → FOOT
 ůr → CURE
+関連文献
+「Ů」Wikipedia. https://ja.wikipedia.org/wiki/%C5%AE.
 ⟨ø⟩
-「Ø」Wikipedia. https://ja.wikipedia.org/wiki/%C3%98.
 ラテン語やフランス語での ⟨u⟩ に相当
 ø → [j] + GOOSE
 弱 ø → [j] + FOOT
 ør# → CURE
+関連文献
+「Ø」Wikipedia. https://ja.wikipedia.org/wiki/%C3%98.
 ⟨v⟩
 古英語では f と未分化だった
 v → [v]
@@ -395,3 +405,4 @@ s/ç
 原語の綴りをイタリック体にして使う
 記述可能になる様に中黒（点字は⠠）で区切る
 IPA を利用する
+
