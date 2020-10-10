@@ -10,6 +10,8 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 ２文字扱い
 ū/ō/ā/ǣ/ē/ī/ȳ
 u/o/a/æ/e/i/y に超分節音素を担うマクロンを付けたもの
+関連文献
+「マクロン」Wikipedia. https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%B3.
 分音記号付きの１文字
 ú/ó/á/ǽ/é/í/ý/ǿ, ǒ/ǎ
 例外的な強勢を示す
@@ -23,7 +25,6 @@ u/o/a/æ/e/i/y に超分節音素を担うマクロンを付けたもの
 į
 語末以外での HAPPY tensing を示す
 関連文献
-「マクロン」Wikipedia. https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%B3.
 「アキュート・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88.
 「グレイヴ・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88.
 「トレマ」Wikipedia. https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%9E.
@@ -405,4 +406,3 @@ s/ç
 原語の綴りをイタリック体にして使う
 記述可能になる様に中黒（点字は⠠）で区切る
 IPA を利用する
-
