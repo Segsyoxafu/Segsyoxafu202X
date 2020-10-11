@@ -1,5 +1,6 @@
-親ページ：Inglïsc
-
+Inglïsc
+資料
+読み物
 更新日：2020-10-11
 
 【使用文字一覧】
@@ -11,7 +12,7 @@ a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
 ū/ō/ā/ǣ/ē/ī/ȳ
 u/o/a/æ/e/i/y に超分節音素を担うマクロンを付けたもの
 関連文献
-「マクロン」Wikipedia. https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%B3.
+「マクロン」Wikipedia. https://ja.wikipedia.org/wiki/マクロン.
 分音記号付きの１文字
 ú/ó/á/ǽ/é/í/ý/ǿ, ǒ/ǎ
 例外的な強勢を示す
@@ -25,10 +26,10 @@ u/o/a/æ/e/i/y に超分節音素を担うマクロンを付けたもの
 į
 語末以外での HAPPY tensing を示す
 関連文献
-「アキュート・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88.
-「グレイヴ・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88.
-「トレマ」Wikipedia. https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%9E.
-「オゴネク」Wikipedia. https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B4%E3%83%8D%E3%82%AF.
+「アキュート・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/アキュート・アクセント.
+「グレイヴ・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/グレイヴ・アクセント.
+「トレマ」Wikipedia. https://ja.wikipedia.org/wiki/トレマ.
+「オゴネク」Wikipedia. https://ja.wikipedia.org/wiki/オゴネク.
 【点字との対応】
 ⠁ a	⠃ b	⠉ c	⠙ d	⠑ e	⠋ f	⠛ g	⠓ h	⠊ i	⠚ j
 ⠅ k	⠇ l	⠍ m	⠝ n	⠕ o	⠏ p	⠟ ğ/q	⠗ r	⠎ s	⠞ t
@@ -136,7 +137,7 @@ sc → [ʃ]（前後が共に強母音である場合を除く）
 ç + ør# → [ʃ]
 弱 çi + 弱 V → [ʃ]
 関連文献
-「Ç」Wikipedia. https://ja.wikipedia.org/wiki/%C3%87.
+「Ç」Wikipedia. https://ja.wikipedia.org/wiki/Ç.
 ⟨d⟩
 d → [d]
 弱 di + 弱 V → [d͡ʒ]
@@ -198,7 +199,7 @@ ağ → THOUGHT
 iğ, ēğ, īğ → PRIDE
 æğr#, eğr#, ǣğr#, → SQUARE
 関連文献
-「Ğ」Wikipedia. https://ja.wikipedia.org/wiki/%C4%9E.
+「Ğ」Wikipedia. https://ja.wikipedia.org/wiki/Ğ.
 ⟨ġ⟩
 古英語に於いては ğ と未分化で、主に口蓋性について中立な有声舌背摩擦音を担っていたとみなす
 ġ → [d͡ʒ]
@@ -232,7 +233,7 @@ j + V → [j]
 ※基準時代が古英語期なので、当時既に ğ と中和していた部分（強勢に於ける前舌母音の直前）もこの文字で綴る
 
 関連文献
-「J」Wikipedia. https://ja.wikipedia.org/wiki/J#%E6%AD%B4%E5%8F%B2.
+「J」Wikipedia. https://ja.wikipedia.org/wiki/J.
 ⟨k⟩
 k → [k]
 kn + V → [n]
@@ -346,14 +347,14 @@ au → THOUGHT
 ů → FOOT
 ůr → CURE
 関連文献
-「Ů」Wikipedia. https://ja.wikipedia.org/wiki/%C5%AE.
+「Ů」Wikipedia. https://ja.wikipedia.org/wiki/Ů.
 ⟨ø⟩
 ラテン語やフランス語での ⟨u⟩ に相当
 ø → [j] + GOOSE
 弱 ø → [j] + FOOT
 ør# → CURE
 関連文献
-「Ø」Wikipedia. https://ja.wikipedia.org/wiki/%C3%98.
+「Ø」Wikipedia. https://ja.wikipedia.org/wiki/Ø.
 ⟨v⟩
 古英語では f と未分化だった
 v → [v]
