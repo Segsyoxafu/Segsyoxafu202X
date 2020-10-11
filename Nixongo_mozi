@@ -1,6 +1,8 @@
-親ページ：Nixongo
-
-更新日：2020-10-06
+Nixongo
+資料
+応用
+読み物
+更新日：2020-10-11
 
 【使用文字一覧】
 １文字扱い
@@ -46,7 +48,6 @@ ee/eve/efe → エ段長音
 ei/eg → エ段長音または重母音エイ
 eu/efu → オ段拗長音
 ⟨ə⟩
-「Ə」Wikipedia. https://ja.wikipedia.org/wiki/%C6%8F.
 səi → スィ
 zəi → ズィ
 təu/təi/təyu → トゥ/ティ/テュ
@@ -57,27 +58,32 @@ wəo/wəe/wəi → ウォ/ウェ/ウィ
 この文字が扱えない場合は e で代用
 ※それぞれ一拍
 
+関連文献
+「Ə」Wikipedia. https://ja.wikipedia.org/wiki/Ə.
 ⟨f⟩
-「F」Wikipedia. https://ja.wikipedia.org/wiki/F#%E6%AD%B4%E5%8F%B2.
 転呼したハ行を担う
 v と音価が等しい
 u/fu の音価が等しい
 coda になれない
+関連文献
+「F」Wikipedia. https://ja.wikipedia.org/wiki/F.
 ⟨g⟩
-「G」Wikipedia. https://ja.wikipedia.org/wiki/G#%E9%9F%B3%E4%BE%A1.
 ガ行の子音を担う
 字音の喉内鼻音韻尾は g
-「地名字音転用例」Wikipedia. https://ja.wikipedia.org/wiki/地名字音転用例.
 ou/og/ofu, au/ag/afu, oo/ovo/ofo → オ段長音
 ei/eg → エ段長音または重母音エイ
 字音の東韻三等に対して想定される ig は jug/yug に変える（ig は一切使わない）
+関連文献
+「G」Wikipedia. https://ja.wikipedia.org/wiki/G.
+「地名字音転用例」Wikipedia. https://ja.wikipedia.org/wiki/地名字音転用例.
 ⟨h⟩
-「H」Wikipedia. https://ja.wikipedia.org/wiki/H#%E9%9F%B3%E4%BE%A1.
 ア行の子音を担う
 基本的に語中の音節境界に現れる
 音節境界の有無が中和していても形態素境界（活用語尾を除く）があれば現れる
 不完全な複合語の後部要素の頭（ハイフンの直後）や接語の頭にも現れる
 coda になれるという解釈も有り得る（ahha/atha → アッア, ah/at → アッ）
+関連文献
+「H」Wikipedia. https://ja.wikipedia.org/wiki/H.
 ⟨i⟩
 イ段の母音を担う
 ヤ行イ段 ji は現れない
@@ -85,11 +91,11 @@ ii/ivi/ifi → イ段長音
 ei/eg → エ段長音または重母音エイ
 iu/ifu → ウ段拗長音
 ⟨j⟩
-「J」Wikipedia. https://ja.wikipedia.org/wiki/J#%E6%AD%B4%E5%8F%B2.
 ヤ行の子音を担う
 ヤ行イ段 ji は現れない
 単独の音節としてなら e/je/ve/fe の音価が等しい
 coda になれない
+「J」Wikipedia. https://ja.wikipedia.org/wiki/J.
 ⟨k⟩
 カ行の子音を担う
 カ行直前の促音を担う場合を除き、coda になれない
@@ -129,15 +135,15 @@ ou/og/ofu, au/ag/afu, oo/ovo/ofo → オ段長音
 eu/efu → オ段拗長音
 iu/ifu → ウ段拗長音
 ⟨ŭ⟩
-「ブレーヴェ」Wikipedia. https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%B4%E3%82%A7.
 tŭo/tŭa/tŭe/tŭi → ツォ/ツァ/ツェ/ツィ
 xŭo/xŭa/xŭe/xŭi/xŭyu → フォ/ファ/フェ/フィ/フュ
 母音を担う文字の直後には現れない
 この文字が扱えない場合は u で代用
 ※それぞれ一拍
 
+関連文献
+「ブレーヴェ」Wikipedia. https://ja.wikipedia.org/wiki/ブレーヴェ.
 ⟨v⟩
-「V」Wikipedia. https://ja.wikipedia.org/wiki/V#%E9%9F%B3%E7%B4%A0.
 ワ行の子音を担う
 ワ行ウ段 vu は現れない
 単独の音節としてなら o/vo/fo の音価が等しい
@@ -145,24 +151,28 @@ xŭo/xŭa/xŭe/xŭi/xŭyu → フォ/ファ/フェ/フィ/フュ
 単独の音節としてなら i/vi/fi の音価が等しい
 coda になれない
 f と音価が等しい
+関連文献
+「V」Wikipedia. https://ja.wikipedia.org/wiki/V.
 ⟨w⟩
-「W」Wikipedia. https://ja.wikipedia.org/wiki/W.
 合拗音を担う（カガ行のみ）
 ⟨ẇ⟩
-「W」Wikipedia. https://ja.wikipedia.org/wiki/W#%E9%9F%B3%E4%BE%A1.
 ẇu/ẇo/ẇa/ẇe/ẇi → ヴ/ヴォ/ヴァ/ヴェ/ヴィ
 この文字が扱えない場合は w で代用
+関連文献
+「W」Wikipedia. https://ja.wikipedia.org/wiki/W.
 ⟨x⟩
-「X」Wikipedia. https://ja.wikipedia.org/wiki/X.（ラテン文字）
-「Χ」Wikipedia. https://ja.wikipedia.org/wiki/%CE%A7.（ギリシャ文字）
-「Х」Wikipedia. https://ja.wikipedia.org/wiki/%D0%A5.（キリル文字）
 ハ行の子音を担う
 ハ行直前の促音を担う場合を除き、coda になれない
+関連文献
+「X」Wikipedia. https://ja.wikipedia.org/wiki/X.（ラテン文字）
+「Χ」Wikipedia. https://ja.wikipedia.org/wiki/Χ.（ギリシャ文字）
+「Х」Wikipedia. https://ja.wikipedia.org/wiki/Х.（キリル文字）
 ⟨y⟩
 開拗音を担う（jy, yi, kwyu/gwyu 無し）
 シェやチェなどはエ段の開拗音とみなす
 母音を担う文字の直後には現れない
-「Ÿ」Wikipedia. https://ja.wikipedia.org/wiki/%C5%B8.
+関連文献
+「Ÿ」Wikipedia. https://ja.wikipedia.org/wiki/Ÿ.
 ⟨z⟩
 ザ行の子音を担う
 zu/du, zi/di, zy/dy の音価がそれぞれ等しい
@@ -195,7 +205,8 @@ coda になれない
 極を２つ持つ単語では先行する極のみが音価を持つ
 接語（補助用言を含む）の極の音価は先行する単語の極によって弱められる
 「式保存」に基づく③の黙字化はできないとみなす
-「赤とんぼ・陣太鼓・影法師・肩車」などはかつて頭高型だった
+「赤とんぼ・陣太鼓・影法師・肩車」などはかつて頭高型だった（寺の名前は関係あるか？）
+複合動詞はかつて前部要素の元のアクセントが全体のアクセントを決定した
 「赤く・赤かった」などのアクセントに基づき、形容詞などのカリ活用は既にアポストロフィの要件である品詞の境界を失っているとみなす（「だった」などとは異なる）
 基本的に語末の極の有無の固有性が失われたとみなし、尾高型とされる場合にのみ③を置く
 用言の連体形とその直後の接語との関係は、その更に後ろに他の接語を置けるか否かで変化するのかも知れない（cf. 「べき」）
@@ -205,7 +216,8 @@ coda になれない
 これらの単語は修飾語になることが無い
 中止連用形が１拍の場合、語幹の③より語尾の❷を優先してみる
 接続連用形には接語「に」が続く
-「みんな・あした・あす・きのう・はるか・ただ」などの副詞用法はここで言う「体言」ではない
+※「みんな・あした・あす・きのう・はるか・ただ」などの副詞用法はここで言う「体言」ではない
+
 見出し	基本形	ノ格形
 川	kafâ	kafa-no
 皮	kafà	kafa-no
