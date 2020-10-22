@@ -235,6 +235,7 @@ air#, eir# → SQUARE
 弱 zi + 弱 V → [ʒ]
 ⟨j⟩
 j + V → [j]
+弱 je → BECAUSE
 関連文献
 「J」Wikipedia. https://ja.wikipedia.org/wiki/J.
 ⟨k⟩
@@ -391,11 +392,10 @@ g/ğ/ġ/j に関する補足
 
 古英語での ⟨h⟩ の音価は [x]~[ç] とされ、無声舌背摩擦音として一つの音素を成している
 古英語での ⟨g⟩ は語末に於いて ⟨h⟩ に変化することがあった
-規則的な変化という程では無さそうなので、g の音価の規則からは除外した
+規則的な変化という程では無さそうなので、音価の規則からは除外した
 直前に母音を担う文字がある場合、古英語での ⟨g⟩ の音価に例外が無いと思われる
-古英語初期での ⟨oe⟩ や主に Germanic /j/ を担う ⟨j⟩ の存在を考慮した場合、語頭に於いても古英語での ⟨g⟩ の音価に例外が無くなると思われる
-資料や機能負担量の少なさから oe は扱っていないが、実際の音韻史が変わる訳ではない
-古英語の資料からでは [j] が Germanic /j/ によるものなのか否かが基本的にわからない為、g には [j] を担わせていない
+Germanic /j/ などを担う文字として ⟨j⟩ を採用しているが、さらに古英語初期での ⟨oe⟩ も採用する場合、語頭に於いても古英語での ⟨g⟩ の音価に例外が無くなると思われる
+資料や機能負担量の少なさから oe は採用していないが、実際の音韻史が変わる訳ではない
 古英語での ⟨ng⟩ に於ける ⟨g⟩ の音価は [g] か [d͡ʒ] とされ、⟨rg⟩ や ⟨lg⟩ での様に中英語での [w] に繋がる [ɣ] が現れることがほぼ無く、破擦音と摩擦音との対立ではないとみなせる
 中英語では “large” などによって分裂が起こる
 [j] と [ʝ]、[j] と [i] はそれぞれ非常に近い音声だが、音声の近さは同一の音素に属することの証明にはならない
@@ -404,12 +404,12 @@ Germanic /j/ が古英語での [d͡ʒ] となった訳ではない
 Originally /ɣ/ occurred also in final position, but during the Old English period it frequently became unvoiced to /x/, and hence written h , as in burh (beside burg ) city (see borough n.), beorh (beside beorg ) hill (see barrow n.1), bēah (beside bēag ) ring (see bee n.2); the incidence of h and g spellings suggests that this change occurred during the period of the surviving literary records, and at differing rates in different dialects.
 
 “G, n.” Oxford English Dictionary Online. Oxford University Press. https://www.oed.com/view/Entry/75887.
-In early Old English oe (not found in manuscripts as a ligature) was the i-mutated form of ō and o (as in foet (see foot n. and int.), doeman (see deem v., oele (see ele n.)), probably originally rounded front vowels, but afterwards written (and sounded) simply ē , e .
-
-“O, n.1” Oxford English Dictionary Online. Oxford University Press. https://www.oed.com/view/Entry/129443.
 A palatal approximant (or semivowel) /j/ (often represented philologically by a g with a dot above), typically found word-initially before a front vowel or word-finally after a front vowel, and in other positions where the operation of earlier sound changes (often caused by a following sound that was subsequently lost) had caused palatalization of the voiced velar fricative, as in geard yard n.1, dæg day n., or bodig body n., and in particular forms within paradigms, as in byrg , genitive and dative singular and nominative and accusative plural of burg , burh city (see borough n.). This sound was also represented by g when it occurred as the reflex of Germanic (and Indo-European) /j/ in e.g. gēar year n., geong young adj., geoc yoke n., or hergas , nominative and accusative plural of here army (see here n.)
 
 “G, n.” Oxford English Dictionary Online. Oxford University Press. https://www.oed.com/view/Entry/75887.
+In early Old English oe (not found in manuscripts as a ligature) was the i-mutated form of ō and o (as in foet (see foot n. and int.), doeman (see deem v., oele (see ele n.)), probably originally rounded front vowels, but afterwards written (and sounded) simply ē , e .
+
+“O, n.1” Oxford English Dictionary Online. Oxford University Press. https://www.oed.com/view/Entry/129443.
 同音価の組
 i/y
 s/ç
