@@ -1,7 +1,7 @@
 Inglïsc
 資料
 読み物
-更新日：2020-10-23
+更新日：2020-10-26
 
 【使用文字一覧】
 １文字扱い
@@ -76,9 +76,10 @@ u/o/a/æ/e/i/y に超分節音素を担うマクロンを付けたもの
 複合語の前後の要素が共に自立可能な形態を維持している場合、その間にハイフンを挟む
 強勢同士の相対的な強弱は無視する
 関連文献
-内海淳「複合語の強勢」英語形態論. 2010. http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_c5_ja.html#doc1_id2801.
+内海淳.「複合語の強勢」英語形態論. 2010. http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_c5_ja.html#doc1_id2801.
 ⟨a⟩
 古英語では â と未分化だった
+“gather (OE gaderian, ME gaderen)” → gaðer
 a/ea → TRAP
 a/ea + f#/þ#/s#, ðz# → BATH
 a/ea + l# → THOUGHT
@@ -106,7 +107,7 @@ air# → SQUARE
 ⟨â⟩
 古英語では a と未分化だった
 主に Open Syllable Lengthening による母音
-“late (OE late, ME lāt/lāte)”
+“late (OE late, ME lāt/lāte)” → lât
 â → FACE
 âr# → SQUARE
 âu → PALM
@@ -152,6 +153,7 @@ C + d# → [t]（ここでの C は t/d を除く）
 ð → [ð]
 ⟨e⟩
 古英語では ê と未分化だった
+“heavy (OE hefig, ME hē̆vī)” → hevi
 e/eo → DRESS
 弱 e/eo → COMMA
 ２つの音節の間の弱 e → COMMA
@@ -261,6 +263,7 @@ ng# → [ŋ]
 mn# → [m]
 ⟨o⟩
 古英語では ô と未分化だった
+“body (OE bodig, ME bō̆dī)” → bodi
 o → LOT
 o + f#/þ#/s#, ðz#, g#, ng# → CLOTH
 o + n# → CLOTH（coda が n のみの場合）
