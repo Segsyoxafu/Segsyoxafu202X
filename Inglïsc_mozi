@@ -1,7 +1,7 @@
 Inglïsc
 資料
 読み物
-更新 2020-11-12
+更新 2020-12-01
 
 【使用文字一覧】
 １文字扱い
@@ -86,7 +86,7 @@ a/ea + l# → THOUGHT
 a/ea + lt → THOUGHT, LOT
 w + a/ea → LOT（+ k/g, nk/ng を除く）
 弱 a → COMMA
-２つの音節の間の弱 a → COMMA
+２つの音節の間の弱 a → COMMA, [∅]
 aw/eaw, ağ, au → THOUGHT
 ah/eah + t# → THOUGHT
 ar#/ear# → START
@@ -156,7 +156,7 @@ C + d# → [t]（ここでの C は t/d を除く）
 “heavy (OE hefig, ME hē̆vī)” → hevi
 e/eo → DRESS
 弱 e/eo → COMMA
-２つの音節の間の弱 e → COMMA
+２つの音節の間の弱 e → COMMA, [∅]
 ew/eow → [j] + GOOSE
 eğ, eh, ei → FACE
 er#/eor# → START
@@ -223,7 +223,7 @@ eh → FACE
 ēh, ih, īh → PRIDE
 ⟨i⟩
 i → KIT, RABBIT, BECAUSE
-２つの音節の間の弱 i → RABBIT, COMMA
+２つの音節の間の弱 i → RABBIT, COMMA, [∅]
 語末開音節の弱 i → HAPPY
 弱 i + V → PIANO
 iw, īw, iu → [j] + GOOSE
@@ -269,7 +269,7 @@ o + f#/þ#/s#, ðz#, g#, ng# → CLOTH
 o + n# → CLOTH（coda が n のみの場合）
 o + l# → GOAT
 弱 o → COMMA
-２つの音節の間の弱 o → COMMA
+２つの音節の間の弱 o → COMMA, [∅]
 ow, oğ → GOAT
 oh + t# → THOUGHT
 or# → NORTH
@@ -339,7 +339,7 @@ stn# → [sn]
 １６世紀までは ů と未分化だった
 u → STRUT
 弱 u → COMMA
-２つの音節の間の弱 u → COMMA
+２つの音節の間の弱 u → COMMA, [∅]
 uğ, ūğ → MOUTH
 ur# → NURSE
 au → THOUGHT
@@ -358,7 +358,7 @@ au → THOUGHT
 ⟨ø⟩
 ラテン語やフランス語での ⟨u⟩ に相当
 ø → [j] + GOOSE
-弱 ø → [j] + FOOT
+２つの音節の間の弱 ø → [j] + FOOT
 ør# → CURE
 関連文献
 「Ø」Wikipedia. https://ja.wikipedia.org/wiki/Ø.
