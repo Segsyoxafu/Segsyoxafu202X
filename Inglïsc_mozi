@@ -388,6 +388,396 @@ z → [z]
 C + z# → [s]
 tz# → [t͡s]
 z + ør# → [ʒ]
+Inglïsc
+資料
+読み物
+更新 2020-12-01
+
+【使用文字一覧】
+１文字扱い
+a/â/æ/b/c/ç/d/ð/e/ê/f/g/ğ/ġ/h/i/j/k/l/m/n/o/ô/p/r/s/t/þ/u/ů/ø/v/w/y/z
+※q/x は他言語の綴りをそのまま使う場合にのみ現れる。
+
+２文字扱い
+ū/ō/ā/ǣ/ē/ī/ȳ
+u/o/a/æ/e/i/y に超分節音素を担うマクロンを付けたもの
+関連文献
+「マクロン」Wikipedia. https://ja.wikipedia.org/wiki/マクロン.
+分音記号付きの１文字
+ú/ó/á/ǽ/é/í/ý/ǿ, ǒ/ǎ
+例外的な強勢を示す
+ǒ/ǎ は ò/à にアキュート・アクセントを付けたもの
+ù/ò/à/(æ̀)/è/ì/(ỳ)
+母音の弱化を妨げる
+強勢とは限らない
+òr/àr を除き、ò/à は常に LOT/TRAP を担う
+ü/ö/ä/ë/ï
+直前の文字までの音価の纏まりを示す
+į
+語末以外での HAPPY tensing を示す
+関連文献
+「アキュート・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/アキュート・アクセント.
+「グレイヴ・アクセント」Wikipedia. https://ja.wikipedia.org/wiki/グレイヴ・アクセント.
+「トレマ」Wikipedia. https://ja.wikipedia.org/wiki/トレマ.
+「オゴネク」Wikipedia. https://ja.wikipedia.org/wiki/オゴネク.
+【点字との対応】
+⠁ a	⠃ b	⠉ c	⠙ d	⠑ e	⠋ f	⠛ g	⠓ h	⠊ i	⠚ j
+⠅ k	⠇ l	⠍ m	⠝ n	⠕ o	⠏ p	⠟ ğ/q	⠗ r	⠎ s	⠞ t
+⠥ u	⠧ v	⠭ ġ/x	⠽ y	⠵ z	⠯ ū	⠿ ȳ	⠷ ů	⠮ æ	⠾ ǣ
+⠡ ā	⠣ â	⠩ þ	⠹ ð	⠱ ē	⠫ ê	⠻ ô	⠳ ō	⠪ ī	⠺ w
+（略）
+⠌ ø
+⠬ ç
+（略）
+⠥ u	⠯ ū
+⠕ o	⠳ ō
+⠁ a	⠡ ā
+⠮ æ	⠾ ǣ
+⠑ e	⠱ ē
+⠊ i	⠪ ī
+⠽ y	⠿ ȳ
+※o に注意。
+⠈	対象音節に前置	アキュート・アクセント
+⠔	対象音節に前置	グレイヴ・アクセント
+⠂	対象文字に前置	トレマ
+⠂	対象文字に後置	オゴネク
+※ǒ/ǎ では⠜とする。
+【現代語での音価等】
+凡例
+母音音素は Lexical Set で示す
+子音音素はその最も典型的な異音を略式の IPA で示す
+「V」は母音を担う文字（トレマの付いたものを除く）
+「C」は無声子音を担う文字
+「#」は「V」が続かない状態
+「弱」は弱化した状態
+※単子音か重子音かは音価に影響しないので省略した。（onset に於ける子音連結とその直前の音節の coda とで重子音を成すことは無い）
+
+関連文献
+“Pronunciations”. Oxford University Press. https://public.oed.com/how-to-use-the-oed/key-to-pronunciation/.
+音節の強弱等
+強勢では onset と coda が最大になる
+基本的に語頭の音節のみが強勢となる
+強勢から逆行して２つ目の音節は弱化しない
+ū/ō/ā/ǣ/ē/ī/ȳ, ô/â/ê, ů は常に強勢を担う
+接語は常に強形を基に綴る
+接語の弱形は複音節語に於ける固定された弱化とは異なるものとみなす
+不定冠詞 “an/a” は an/â、定冠詞 “the” は ðē/ð とする
+弱形の有無は区別しない
+複合語の前後の要素が共に自立可能な形態を維持している場合、その間にハイフンを挟む
+強勢同士の相対的な強弱は無視する
+関連文献
+内海淳.「複合語の強勢」英語形態論. 2010. http://culture.cc.hirosaki-u.ac.jp/english/utsumi/phonology/morphology_c5_ja.html#doc1_id2801.
+⟨a⟩
+古英語では â と未分化だった
+“gather (OE gaderian, ME gaderen)” → gaðer
+a/ea → TRAP
+a/ea + f#/þ#/s#, ðz# → BATH
+a/ea + l# → THOUGHT
+a/ea + lt → THOUGHT, LOT
+w + a/ea → LOT（+ k/g, nk/ng を除く）
+弱 a → COMMA
+２つの音節の間の弱 a → COMMA, [∅]
+aw/eaw, ağ, au → THOUGHT
+ah/eah + t# → THOUGHT
+ar#/ear# → START
+弱 ar#/ear# → LETTER
+w + ar#/ear# → NORTH
+ai → FACE
+air# → SQUARE
+ā → GOAT
+ā + h → CLOTH
+āw, āğ → GOAT
+āh + t# → THOUGHT
+ār# → FORCE
+ēa → FLEECE
+ēaw → [j] + GOOSE
+ēar# → NEAR
+※“who (OE hwā)” や “two (OE twā)” などは例外的な変化とみなす。cf. “woe (OE wā)”, “woad (OE wād)”
+
+⟨â⟩
+古英語では a と未分化だった
+主に Open Syllable Lengthening による母音
+“late (OE late, ME lāt/lāte)” → lât
+â → FACE
+âr# → SQUARE
+âu → PALM
+⟨æ⟩
+æ → TRAP
+æ + f#/þ#/s#, ðz# → BATH
+æ + l# → THOUGHT
+æ + lt → THOUGHT, LOT
+w + æ → LOT（+ k/g, nk/ng を除く）
+弱 æ → COMMA
+æğ → FACE
+æw → THOUGHT
+æh + t# → THOUGHT
+ær# → START
+弱 ær# → LETTER
+w + ær# → NORTH
+æğr# → SQUARE
+ǣ → FLEECE
+ǣw → [j] + GOOSE
+ǣğ → FACE
+ǣr# → NEAR
+⟨b⟩
+b → [b]
+mb# → [m]
+⟨c⟩
+c → [t͡ʃ]
+sc → [ʃ]（前後が共に強母音である場合を除く）
+⟨ç⟩
+ラテン語やフランス語での ⟨c⟩ に相当
+ç → [s]
+ç + ør# → [ʃ]
+弱 çi + 弱 V → [ʃ]
+関連文献
+「Ç」Wikipedia. https://ja.wikipedia.org/wiki/Ç.
+⟨d⟩
+d → [d]
+弱 di + 弱 V → [d͡ʒ]
+C + d# → [t]（ここでの C は t/d を除く）
+※r の直前での摩擦音化は例外的な変化とみなす。
+
+⟨ð⟩
+古英語では þ と未分化だった
+ð → [ð]
+⟨e⟩
+古英語では ê と未分化だった
+“heavy (OE hefig, ME hē̆vī)” → hevi
+e/eo → DRESS
+弱 e/eo → COMMA
+２つの音節の間の弱 e → COMMA, [∅]
+ew/eow → [j] + GOOSE
+eğ, eh, ei → FACE
+er#/eor# → START
+弱 er#/eor# → LETTER
+eğr#, eir# → SQUARE
+w + er#/eor# → NORTH
+ē/ēo → FLEECE（接語では短音化することも）
+ēw/ēow → [j] + GOOSE
+ēğ, ēh → PRIDE
+ēr#/ēor# → NEAR
+ea → TRAP
+ea + f#/þ#/s#, ðz# → BATH
+ea + l# → THOUGHT
+w + ea → LOT（+ k/g, nk/ng を除く）
+eaw → THOUGHT
+eah + t# → THOUGHT
+ear# → START
+弱 ear# → LETTER
+w + ear# → NORTH
+ēa → FLEECE
+ēaw → [j] + GOOSE
+ēar# → NEAR
+※古英語当時から æa とも綴れたはずでありながら ea という綴りが一般的なので、それを尊重した。
+
+⟨ê⟩
+古英語では e と未分化だった
+主に Open Syllable Lengthening による母音（long open e）
+“mead (OE medu, ME mēd/mēde)” → mêd
+ê → FLEECE
+êr# → NEAR
+⟨f⟩
+古英語では v と未分化だった
+f → [f]
+⟨g⟩
+g → [g]
+gn + V → [n]
+ng + 弱 V → [ŋg]
+ngl# → [ŋgl]
+ngr# → [ŋgr]
+ngw# → [ŋgw]
+ng# → [ŋ]
+⟨ğ⟩
+古英語では ġ と未分化だったと解釈
+uğ, ūğ, ōğ → MOUTH
+oğ, āğ → GOAT
+ağ → THOUGHT
+æğ, eğ, ǣğ → FACE
+iğ, ēğ, īğ → PRIDE
+æğr#, eğr#, ǣğr#, → SQUARE
+関連文献
+「Ğ」Wikipedia. https://ja.wikipedia.org/wiki/Ğ.
+⟨ġ⟩
+古英語では ğ と未分化だったと解釈
+ġ → [d͡ʒ]
+⟨h⟩
+h → [h]
+h + 弱 V → [h], [∅]
+h + l/n/r + V → [∅]
+hw + V → [ʍ], [w]
+V + hs# → [ks]
+a/ea/æ, o/ā, u/ō + h → [f]
+ah/eah/æh, oh/āh, ōh + t# → THOUGHT
+eh → FACE
+ēh, ih, īh → PRIDE
+⟨i⟩
+i → KIT, RABBIT, BECAUSE
+２つの音節の間の弱 i → RABBIT, COMMA, [∅]
+語末開音節の弱 i → HAPPY
+弱 i + V → PIANO
+iw, īw, iu → [j] + GOOSE
+iğ, īğ, ih, īh → PRIDE
+ir# → NURSE（er# に由来するものを含む）
+弱 ir# → LETTER
+oi → VOICE
+ai, ei → FACE
+air#, eir# → SQUARE
+弱 si + 弱 V → [ʃ]
+弱 zi + 弱 V → [ʒ]
+⟨j⟩
+j + V → [j]
+関連文献
+「J」Wikipedia. https://ja.wikipedia.org/wiki/J.
+⟨k⟩
+k → [k]
+kn + V → [n]
+⟨l⟩
+l → [l]
+hl + V → [l]
+l + [j] → [l] + [j]/[∅]
+a/ea/æ/o + l + k# → [∅]
+※“half/which” などに於ける [l] の脱落は例外的な変化とみなす。
+
+⟨m⟩
+m → [m]
+mb# → [m]
+⟨n⟩
+n → [n]
+hn, kn/gn + V → [n]
+ng + V → [ŋg]
+ngl# → [ŋgl]
+ngr# → [ŋgr]
+ngw# → [ŋgw]
+ng# → [ŋ]
+mn# → [m]
+⟨o⟩
+古英語では ô と未分化だった
+“body (OE bodig, ME bō̆dī)” → bodi
+o → LOT
+o + f#/þ#/s#, ðz#, g#, ng# → CLOTH
+o + n# → CLOTH（coda が n のみの場合）
+o + l# → GOAT
+弱 o → COMMA
+２つの音節の間の弱 o → COMMA, [∅]
+ow, oğ → GOAT
+oh + t# → THOUGHT
+or# → NORTH
+弱 or# → LETTER
+oi → VOICE
+ō → GOOSE（接語では短音化することも）
+ō + h → STRUT
+ōw, ōğ → MOUTH
+ōh + t# → THOUGHT
+ōr# → FORCE
+e/eo → DRESS
+弱 e/eo → COMMA
+eow → [j] + GOOSE
+eor# → START
+弱 eor# → LETTER
+w + eor# → NORTH
+eowr → [j] + CURE, FORCE
+ēo → FLEECE
+ēow → [j] + GOOSE
+ēor# → NEAR
+ēowr → [j] + CURE, FORCE
+⟨ô⟩
+古英語では o と未分化だった
+主に Open Syllable Lengthening による母音（long open o）
+“coal (OE col, ME cōl)” → kôl
+ô → GOAT
+ôr# → FORCE
+⟨p⟩
+p → [p]
+ps という onset は無い
+⟨r⟩
+r → [r]（略式 IPA）
+r + [j] → [r] + [∅]
+hr, wr + V → [r]
+ur#, ir#/yr# → NURSE
+or#, òr# → NORTH
+w + ar#/ear#/ær#, er#/eor# → NORTH
+ōr#, ôr#/ār# → FORCE
+ar#/ear#/ær#, er#/eor# → START
+air#, âr#, æğr#, eğr#, ǣğr#, eir# → SQUARE
+ēar#/ǣr#/êr#, ēr#/ēor# → NEAR
+eowr#, ēowr# → [j] + CURE, FORCE
+ůr# → CURE
+ør# → [j] + CURE
+ūr# → MOUTH + LETTER
+īr#/ȳr# → PRIDE + LETTER
+弱 Vr# → LETTER
+⟨s⟩
+古英語では z と未分化だった
+s → [s]
+sc → [ʃ]（前後の母音がどちらも弱化していない場合を除く）
+V + hs# → [ks]
+s + ør# → [ʃ]
+弱 si + 弱 V → [ʃ]
+⟨t⟩
+t → [t]
+ts#/tz# → [t͡s]
+弱 ti + 弱 V → [t͡ʃ]
+stl# → [sl]
+stn# → [sn]
+※stl#/stn# 以外での [t] の脱落は例外的な変化とみなす。
+
+⟨þ⟩
+古英語では ð と未分化だった
+þ → [θ]
+⟨u⟩
+１６世紀までは ů と未分化だった
+u → STRUT
+弱 u → COMMA
+２つの音節の間の弱 u → COMMA, [∅]
+uğ, ūğ → MOUTH
+ur# → NURSE
+au → THOUGHT
+ū → MOUTH
+※ui の存在は無視する。
+
+関連文献
+堀田隆一.「#4109. boil, loin, point — 中英語 ui から綴字発音へ」hellog～英語史ブログ. http://user.keio.ac.jp/~rhotta/hellog/2020-07-27-1.html.
+⟨ů⟩
+１６世紀までは u と未分化だった
+ō から例外的に短音化したものを含む
+ů → FOOT
+ůr → CURE
+関連文献
+「Ů」Wikipedia. https://ja.wikipedia.org/wiki/Ů.
+⟨ø⟩
+ラテン語やフランス語での ⟨u⟩ に相当
+ø → [j] + GOOSE
+２つの音節の間の弱 ø → [j] + FOOT
+ør# → CURE
+関連文献
+「Ø」Wikipedia. https://ja.wikipedia.org/wiki/Ø.
+⟨v⟩
+古英語では f と未分化だった
+v → [v]
+※“lady/had” などに於ける [v] の脱落は例外的な変化とみなす。
+
+⟨w⟩
+w → [w]
+hw + V → [ʍ], [w]
+wr + V → [∅]
+ōw → MOUTH
+ow/āw → GOAT
+aw/eaw/æw → THOUGHT
+ēaw/ǣw, ew/eow, ēw/ēow, iw/yw, īw/ȳw → [j] + GOOSE
+eowr#, ēowr# → [j] + CURE, FORCE
+※onset の s と後舌母音との間での [w] の脱落は例外的な変化とみなす。
+
+⟨y⟩
+y → KIT, RABBIT
+yr# → NURSE（古英語 eor# に由来するものを含む）
+ȳ → PRIDE
+⟨z⟩
+古英語では s と未分化だった
+z → [z]
+C + z# → [s]
+tz# → [t͡s]
+z + ør# → [ʒ]
 弱 zi + 弱 V → [ʒ]
 g/ğ/ġ/j に関する補足
 一般的に古英語での ⟨g⟩ の音価は口蓋化の有無で対立していたとされるが、下記に基づいて摩擦音性の有無で対立していたと解釈した。
@@ -396,7 +786,7 @@ g/ğ/ġ/j に関する補足
 古英語での ⟨g⟩ は語末に於いて ⟨h⟩ に変化することがあった
 規則的な変化という程では無さそうなので、音価の規則からは除外した
 直前に母音を担う文字がある場合、古英語での ⟨g⟩ の音価に例外が無いと思われる
-Germanic /j/ などを担う文字として ⟨j⟩ を採用しているが、さらに古英語初期での ⟨oe⟩ も採用する場合、語頭に於いても古英語での ⟨g⟩ の音価に例外が無くなると思われる
+Germanic /j/ などに由来する音素を担う文字として ⟨j⟩ を採用しているが、さらに古英語初期での ⟨oe⟩ も採用する場合、語頭に於いても古英語での ⟨g⟩ の音価に例外が無くなると思われる
 資料や機能負担量の少なさから oe は採用していないが、実際の音韻史が変わる訳ではない
 古英語での ⟨ng⟩ に於ける ⟨g⟩ の音価は [g] か [d͡ʒ] とされ、⟨rg⟩ や ⟨lg⟩ での様に中英語での [w] に繋がる [ɣ] が現れることがほぼ無く、破擦音と摩擦音との対立ではないとみなせる
 中英語では “large” などによって分裂が起こる
