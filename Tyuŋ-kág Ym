@@ -1,27 +1,29 @@
 ☯ 中古音: � 聲母
 ☀ � � ⛈ �
-k5 k 見 kh 溪 g {匣, 以, 云} gh 群 ŋ 疑
+k5 k 見 kh 溪 g {匣, 云, 以} gh 群 ŋ 疑
 t13
-t {端, 章, 知} th {透, 昌, 徹} d {定, 以, 澄} dh 禪↓ n {泥, 日, 娘}
-s {心, 生} sh 書 x 邪↓ xh 船↑ l 來
+t {端, 知, 章} th {透, 徹, 昌} d {定, 澄, 以} dh 禪↓ n {泥, 娘, 日}
+s {心, 生} sh 書 [三] x 邪↓ [三] xh 船↑ l 來
 c {精, 莊} ch {清母, 初} z {從↑, 崇}
 p4 p {幫, (非)} ph {滂, (敷)} b {竝, (奉)} m {䕢, (微母)}
-h h 曉
+q2 ∅ 影 h 曉
 註
-聲母が無い状態を影母とみなす。子音字 w は韻母側に現れる。
+影 は聲母が無い状態とみなす。
 云 には y を持つ三等韻が接続する。
-章, 昌, 以, 日 には i を持つ三等韻が接続する。
-以, 禪; 邪, 船 は字音の数の比や聲母間の関係などを基にした。
-『韻鏡』では 以 が 云 と共に喩母とされ、唐代長安方言では 禪
-vs. 船 や 邪 vs. 從 の対立が失われる。cf. 梵語音訳: ध्यान → 禪
-赤字の聲母 知, 徹, 澄, 娘; 生; 莊, 初, 崇 には二等韻や y を持つ三等
+章, 昌, 以, 日 には i を持つ三等韻が接続する。以 には g と d の２
+つがあり、t13 の制約や諧聲関係から d を無標とみなす。
+以, 禪; 邪, 船 は字音の数の比、聲母間の関係、漢越語などを基に
+した。『韻鏡』では 以 が 云 と共に喩母とされ、唐代長安方言で
+は 禪 vs. 船 や 邪 vs. 從 の対立が失われる。cf. 梵語音訳: ध्यान → 禪
+書, 邪 や 群, 禪, 船 には三等韻が接続する。
+赤字の聲母 知, 徹, 澄, 娘; 莊, 初, 崇; 生 には二等韻や y を持つ三等
 韻が接続する。俟母は 崇 とみなす。
-幫, 滂, 竝, 䕢 と輕唇音化による新しい聲母 非, 敷, 奉, 微母 とを区
-別する場合、後者には ư, u, a, o を持つ三等韻が接続する。ただ
-し、東三, 屋三; 尤 は 微母 ではなく 䕢 に接続する。
+幫, 滂, 竝, 䕢 と輕唇音化による新しい聲母 非, 敷, 奉, 微母 とを区別
+する場合、後者には yư, yu; ya, yo を持つ三等韻が接続する。ただ
+し、東三, 屋三; 尤 は 微母 ではなく 䕢 に接続し、y が黙字となる。
 �
 Tyuŋ-kág Ym: Shieŋ-múg
-Vatanabe Takàjuki @Segsyoxafu 2022-02-07
+Vatanabe Takàjuki @Segsyoxafu 2022-03-27
 ☯ 中古音: � 四聲
 V � 平 � 上 � 去 � ❄ ❄ 入
 �
@@ -36,63 +38,65 @@ o on, od ón, ód òn, òd òt ot
 �
 Tyuŋ-kág Ym: Sìd Shieŋ
 Vatanabe Takàjuki
-@Segsyoxafu 2022-02-07
+@Segsyoxafu 2022-03-27
 1
 ☯ 中古音: � 韻母
 等 母音字列 …n, t …ŋ, k …m, p …d …g …w
 �
 三
 V
-i {眞(A), 諄A} in, {質(A), 術A} it 侵A im, 緝A ip 脂(A) id 幽A iw
-y {眞(B), 臻, 諄B} yn, {質(B), 櫛, 術B} yt [p4, w] 蒸 yŋ, 職 yk 侵B ym, 緝B yp 脂(B) yd 幽B yw
+i {眞(A), 諄A} in, {質(A), 術A} it 侵(A) im, 緝(A) ip 脂(A) id 幽 iw
+y {眞(B), 臻, 諄B} yn, {質(B), 櫛, 術B} yt [p4, w], 抑 蒸 yŋ, 職 yk 侵(B) ym, 緝(B) yp 脂(B) yd [s, p4], 烋 幽 yw
 一
-ư 痕 ưn, ∅ ưt 登 ưŋ, 德 ưk 覃 ưm, 合韻 ưp 咍 ưg
-u 魂 un, 沒 ut 東一 uŋ, 屋一 uk 灰 ud 侯 ug
+ư {痕, 魂} ưn, 沒 ưt 登 ưŋ, 德 ưk 覃 ưm, 合韻 ưp 灰 ưd 咍 ưg
+u [t13 合] 魂 un, 沒 ut 東一 uŋ, 屋一 uk [t13 合] 灰 ud 侯 ug
 三 vV
-iư/yư 欣 yưn, 迄 yưt 除[p4, w] 蒸 iưŋ/yưŋ, 職 iưk/yưk 除[p4] 侵 iưm/yưm, 緝 iưp/yưp [開] 微韻 yưd 之 iưg/yưg 除[p4] 幽 iưw/yưw
-iu/yu {文, 諄} iun/yun, {物, 術} iut/yut 東三 iuŋ/yuŋ, 屋三 iuk/yuk [合] {微韻, 脂} iud/yud 尤 iug/yug
+iư/yư {欣, 文} yưn, {迄, 物} yưt 蒸 iưŋ/yưŋ, 職 iưk/yưk 微韻 yưd 之 iưg/yưg
+iu/yu [t13 合] 諄 iun/yun, 術 iut/yut 東三 iuŋ/yuŋ, 屋三 iuk/yuk [t13 合] 脂 iud/yud 尤 iug/yug
 �
 四
 V
 e 先 en, 屑 et 青 eŋ, 錫 ek 添 em, 帖 ep 齊 ed 蕭 ew
 一
 a {寒, 桓} an, {曷, 末, 泰} at 唐 aŋ, 鐸 ak 談 am, 盍 ap {歌, 戈一} ad 模 ag 豪 aw
-o [t13 合] 桓 on, {末, 泰} ot 冬 oŋ, 沃 ok [t13] 戈一 od
+o [t13 合] 桓 on, {末, 泰} ot 冬 oŋ, 沃 ok [t13 合] 戈一 od
 三
 vV
-ie 仙(A) ien, {薛(A), 祭(A)} iet 清韻 ieŋ, 昔iek 鹽(A) iem, 葉(A) iep 支(A) ied 宵(A) iew
+ie 仙(A) ien, {薛(A), 祭(A)} iet 清韻 ieŋ, 昔 iek 鹽(A) iem, 葉(A) iep 支(A) ied 宵(A) iew
 ye 仙(B) yen, {薛(B), 祭(B)} yet {清韻, 庚三} yeŋ, {昔, 陌三} yek 鹽(B) yem, 葉(B) yep 支(B) yed 宵(B) yew
-ia/ya 元 yan, {月, 廢} yat 陽 iaŋ/yaŋ, 藥 iak/yak {嚴, 凡} yam, {業, 乏} yap 戈三 yad {魚, 虞} iag/yag
-io/yo [合] 仙 ion/yon, {薛, 祭} iot/yot 鍾 ioŋ/yoŋ, 燭 iok/yok [合] 支 iod/yod [t13] 虞 iog/yog
+ia/ya 元 yan, {月, 廢} yat 陽 iaŋ/yaŋ, 藥 iak/yak {嚴, 凡} yam, {業, 乏} yap � 戈三 iad/yad {魚, 虞} iag/yag
+io/yo [t13 合] 仙 ion/yon, {薛, 祭} iot/yot 鍾 ioŋ/yoŋ, 燭 iok/yok [t13 合] 支 iod/yod [t13 合] 虞 iog/yog
 二
 ưe 山 ưen, 黠 ưet 耕 ưeŋ, 麥 ưek 咸 ưem, 洽 ưep 皆 ưed 佳 ưeg 肴 ưew
 ưa 刪 ưan, {䦪, 夬} ưat 庚二 ưaŋ, 陌二 ưak 銜 ưam, 狎 ưap 麻二 ưag
 ưo [t13 合] 刪 ưon, {䦪, 夬} ưot 江 ưoŋ, 覺 ưok [t13 合] 麻二 ưod
-三 vvV iưa/yưa 除[p4, w] 庚三 yưaŋ 麻三 iưag
+三 vvV iưa 麻三 iưag
 註
-t13, p4 に接続する場合を除き、緑色の枠線の中にある欄では母音字列の直前に子音字 w を加えることで合口に対応する。清韻, 昔 が合口で 以 に接続する
-場合、dwieŋ, dwiek ではなく gwieŋ, gwiek とみなす。
-広義の相配として …w ではなく …b とすべきかも知れないが、d, g と違って b には半母音的な音価の保証となる聲母が無い為、…b を避けた。
-輕唇音化の回避や類相関、之 との関係から、蒸, 職 は p4, w に接続する場合を yŋ, yk、それ以外を iưŋ/yưŋ, iưk/yưk とみなす。「飍」とC類である「風」
-との類似や殆ど一つの等位だけで 幽 が記述されたことから、「飍」をC類とみなした上で、侵, 緝; 幽 は p4 に接続する場合やB類とみなされる場合を ym,
-yp; yw、A類とみなされる場合を im, ip; iw、それ以外を iưm/yưm, iưp/yưp; iưw/yưw とみなす。im, ip; iw に該当する字音は非常に少ない。
-輕唇音化の回避や類相関(※)、反切での 清韻, 昔 との通用、ư を持つ三等韻の分布、庚二, 陌二; 麻三 との関係から、庚三 は p4, w に接続する場合を yeŋ、そ
-れ以外を yưaŋ とみなす。庚, 陌 が 莊, 初, 崇; 生 に接続する場合、反切下字が “景, 敬” や “戟” なら t13 にも接続する三等韻 yeŋ, yek、“庚” や “陌, 伯” なら
-麻二 と相配する二等韻 ưaŋ, ưak とみなす。※庚三 の反切上字がC類の帰字に対して使われた例を確認できていないので不十分だが、p4, w に接続しない 庚
-三 の帰字に対する反切上字は全てC類である。陌三 や p4, w に接続する 庚三 の帰字はこの様にはなっていない。
-t13 なら字音の数から i を、p4 なら韻図での等位や上記の相補分布から y を、それ以外なら字音の数や等位から y を、それぞれに接続する三等韻に於いて
-無標とみなす。水色の欄の韻母や 庚三, 陌三 が t13 に接続することは殆ど無く、麻三 は赤字でない聲母としての t13 にほぼ必ず接続する。その為、これら
-の欄では有標な綴りを省略した。
-去聲専用韻 泰, 祭, 廢, 夬 は去聲かつ入聲とみなす。冬 は上聲が殆ど無く、戈三 は上聲と去聲を、痕 は相配する入聲を欠く。ưod に該当する字音は非常に
-少なく、どれも使われることがあまり無いと思われる。cf. 梵語音訳: पत्त्र → 貝多羅
+k5, q2 に接続する場合、緑枠に囲まれた欄では母音字列の直前に子音字 w を加えることで合口に対応する。t13 に接続する場合、合口性は母
+音字 u, o によるものとみなす。その為、清韻, 昔 が合口で 以 に接続する場合、dwieŋ, dwiek ではなく gwieŋ, gwiek となる。cf. 日本語漢字音
+広義の相配から …w ではなく …b とすべきかも知れないが、d, g と違って b には半母音的な音価の保証となる聲母が無い為、…b を避けた。
+t13 なら字音の数から i を、p4; k5, q2 なら字音の数や韻鏡での等位から y を、それぞれに接続する三等韻に於いて無標とみなす。水色の欄の三
+等韻は t13 に接続することが無い。
+重唇音への接続、類相関、之 との関係から、蒸, 職 は p4, w に接続する場合を yŋ, yk、それ以外を iưŋ/yưŋ, iưk/yưk とみなす。ただし、聲符
+「意」と 之 の関係や「抑」と「印」の関係から、「憶 於力反」を yưk、「抑 於棘反」を yk とみなす。
+重唇音への接続、類相関、「烋 許彪反」から、幽 は p4, s に接続する場合や「烋」の韻母となる場合を yw、それ以外を iw とみなす。上字と
+下字で類の食い違う反切は非常に少なく、A類上字「匹」はB類帰字にも使われる為、一律に上字の類を優先するのは避ける。「幼 伊謬反」
+では、他に用例の無い「謬」のB類性より 緝A や 昔 にも使われる「伊」のA類性を重視した。k5, q2 に於いて有標とみなした i ばかりが現れ
+るのは、極一部の例外や p4 に接続するものを除いて yw が 尤 に取り込まれたということか？
+莊, 初, 崇; 生 に接続する韻母について、反切と介音の一般的関係から、下字が “庚” や “陌, 伯” なら 庚二, 陌二、“景, 敬” や “戟” なら 庚三, 陌三 と
+みなす。
+去聲専用韻 泰, 祭, 廢, 夬 は去聲かつ入聲とみなす。cf. 梵語音訳: पत्त्र → 貝多羅
+戈三 は上聲と去聲を欠く。
+…d と …g に同じ音価が想定できる場合、相配する …n, t や …ŋ, k の字音の数や統一感を基に綴りを決めた。
+上古韻部も参考にしたが、中古音の資料や想定した音韻的制約から根拠を得られない様な書き分けは避けた。
 聲母と韻母の組み合わせが記述できないものである場合、近古音などに基づく近似の字音で代用する。
-例:「地」定 d, {脂, 開, 去聲} ìd → {定, 齊, 開, 去聲} dèd
+例:「地」定 d, 脂 開 去 ìd → 定 齊 開 去 dèd
 �
-Tyuŋ-kág Ym: Gyùn-múg
-Vatanabe Takàjuki @Segsyoxafu 2022-02-07
+Tyuŋ-kág Ym: Gwyừn-múg
+Vatanabe Takàjuki @Segsyoxafu 2022-03-27
 1
 � 使用文字
-� 墨字 數
+墨字 数
 子音字 b, c, d, g, h, k, l, m, n, ŋ, p, s, t, w, x, z 16
 母音字 a, e, i, o, u, ư, y 7 25
 被せ音字 ◌́, ◌̀ 2
@@ -101,9 +105,10 @@ Vatanabe Takàjuki @Segsyoxafu 2022-02-07
 ŋ → q
 ư → v
 ◌́, ◌̀ → ◌
-� Vatanabe Takàjuki @Segsyoxafu 2022-02-07
-� 参考文獻
-概説書等
+� Vatanabe Takàjuki @Segsyoxafu 2022-03-27
+� 参考文献
+書誌
+概説
 中村 雅之. “音韻学入門～中古音篇～”. 漢語音韻史の教室. 1998. http://chinese-phonology.com/
 nyumonkouza.html.
 Schuessler, Axel. Minimal Old Chinese and Later Han Chinese: A Companion to Grammata Serica Recensa.
@@ -111,33 +116,48 @@ University of Hawaii Press, 2009, (ABC Chinese Dictionary Series, no. 20). eBook
 www.ebooks.com/en-jp/book/96304289/minimal-old-chinese-and-later-han-chinese/axel-schuessler/.
 藤堂 明保, 水谷 真成, 平山 久雄, 菊田 正信. “II 音韻論”. 言語 新装版. 牛島 徳次, 香坂 順一, 藤
 堂 明保 (編). 大修館書店, 2011, p. 33–178, (中国文化叢書, no. 1).
-太田 斎. “韻書と等韻図 1”. 神戸市外国語大学研究叢書. 神戸市外国語大学外国語学研究所,
-2013, no. 52, p. 1–258. 神戸市外国語大学学術情報リポジトリ, http://id.nii.ac.jp/1085/00001322/.
+太田 斎. “韻書と等韻図 I”. 神戸市外国語大学研究叢書. 神戸市外国語大学外国学研究所, 2013,
+no. 52, p. 1–258. 神戸市外国語大学学術情報リポジトリ, http://id.nii.ac.jp/1085/00001322/.
+太田 斎. “韻書と等韻図 II (完)”. 神戸市外国語大学外国学研究. 神戸市外国語大学外国学研究
+所, 2016, vol. 92, p. 145–246. 神戸市外国語大学学術情報リポジトリ, http://id.nii.ac.jp/
+1085/00002198/.
+太田 斎. “韻書と等韻図 I/II 補説”. 神戸外大論叢. 神戸市外国語大学研究会, 2017, vol. 67, no.
+54, p. 1–28. 神戸市外国語大学学術情報リポジトリ, http://id.nii.ac.jp/1085/00002154/.
 Shen, Zhongwei. A Phonological History of Chinese. Cambridge University Press, 2020. eBooks.com,
 https://www.ebooks.com/en-jp/book/209931523/a-phonological-history-of-chinese/zhongwei-shen/.
 論文
+三沢 諄治郎. “韻鏡序例の検討 (上)”. 甲南女子短期大学論叢. 甲南女子短期大学, 1962, no. 6, p.
+7–24. 甲南女子大学学術情報リポジトリ, http://id.nii.ac.jp/1061/00001209/.
+三沢 諄治郎. “韻鏡序例の検討 (下)”. 甲南女子短期大学論叢. 甲南女子短期大学, 1963, no. 7, p.
+12–25. 甲南女子大学学術情報リポジトリ, http://id.nii.ac.jp/1061/00001214/.
 平山 久雄. “切韻における蒸職韻と之韻の音価”. 東洋学報. 東洋文庫, 1966, vol. 49, no. 1, p. 42–
 68. 東洋文庫リポジトリ, http://id.nii.ac.jp/1629/00005047/.
 太田 斎. “蒸職韻、幽韻における重紐の痕跡”. 神戸外大論叢. 神戸市外国語大学研究会, 2021,
 vol. 73, no. 3, p. 1–65. 神戸市外国語大学学術情報リポジトリ, http://id.nii.ac.jp/1085/00002391/.
-辞典等
+字音
 韻鏡１卷. 出版者不明, 1564, doi:10.11501/2532126. 国立国会図書館デジタルコレクション,
 https://dl.ndl.go.jp/info:ndljp/pid/2532126.
-鈴木 慎吾. Web韻圖 ～廣韻檢索～. http://suzukish.s252.xrea.com/search/inkyo/index.php.
 鈴木 慎吾. 漢語上古音檢索 (鄭張音). http://suzukish.s252.xrea.com/search/zhengzhang/
 search_top.php.
-漢典. https://www.zdic.net/.
+鈴木 慎吾. Web韻圖 ～廣韻檢索～. http://suzukish.s252.xrea.com/search/inkyo/index.php.
+鈴木 慎吾. 切韻諸本輯覽. http://suzukish.s252.xrea.com/search/qieyun/index.php.
 漢字データベースプロジェクト. 宋本廣韻データ. http://kanji-database.sourceforge.net/dict/sbgy/
 index.html.
 郭 家寶 (alias BYVoid). 韻典網. https://ytenx.org/.
 臺灣大學中國文學系, 中央研究院資訊科學研究所. 漢字古今音資料庫. https://
 xiaoxue.iis.sinica.edu.tw/ccr.
-優質教育基金, 香港中文大學人文電算研究中心 (alias Humanum). 漢語多功能字庫. http://
-humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/.
 Jerry. 古今文字集成. http://www.ccamc.co/index.php.
+字源 優質教育基金, 香港中文大學人文電算研究中心 (alias Humanum). 漢語多功能字庫. http://
+humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/.
+日本語
+沼本 克明. “日本漢字音の歴史”. 東京堂出版, 1986, (国語学叢書, no. 10).
+山田 俊雄. “万葉仮名”. 改訂新版・世界大百科事典. 平凡社 (編). 平凡社, 2007. ジャパンナレッ
+ジ, https://japanknowledge.com/introduction/keyword.html?i=375.
 全訳 漢辞海 第四版. 戸川 芳郎 (監修). 佐藤 進, 濱口 富士雄 (編). 三省堂, 2017. 物書堂. 辞書 by
 物書堂. 2019. https://www.monokakido.jp/ja/dictionaries/kanjikai2.
 角川新字源 改訂新版. 小川 環樹, 西田 太一郞, 赤塚 忠, 阿辻 哲次, 佂谷 武志, 木津 祐子 (編). 角
 川書店, 2017. 物書堂. 辞書 by 物書堂. 2019. https://www.monokakido.jp/ja/dictionaries/shinjigen2.
+越南語 CJKI越日辞典. 日中韓辭典研究所, 井上 寛 (編). 2020. https://cjki.org/samples/vjgv_j.htm.
 前提 渡邉 隆之 (alias Vatanabe Takàjuki). “原則”. Segsyoxafu. 2021. https://segsyoxafu.wordpress.com/
 gwensoku/.
+1
