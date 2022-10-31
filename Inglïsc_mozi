@@ -21,7 +21,7 @@ LOT
 o w… a, æ, ea
 (a, æ, ea …lt)
 CLOTH � o
-� ȯ
+� ǫ
 STRUT u
 FOOT ů
 yod GOOSE ME ū ø ew, eow, iw, yw ǣw, ēaw
@@ -35,7 +35,6 @@ eh
 ǣğ
 GOAT
 POTATO
-SWALLOW
 ô
 o …l ā oğ, ow āğ, āw, ōğ, ōw
 āh
@@ -66,29 +65,30 @@ NEAR êr ǣr, ēar
 SQUARE âr æğr, ajr
 eğr, ejr ǣğr
 FORCE ôr ōr
-ār
+ār owr
 COMMA
 AGO
-弱 a, e, o, u
-→ a4
+弱 a, o, u
 RABBIT
 ADDED
 AIDED
 BECAUSE
-弱 i
-弱 a4 …ġ
-弱 s/ç/z/c/ġ… a4 …z
-弱 t/d… a4 …d
+弱 e, i
+弱 a …ġ
+c/ġ/s/ç/z + 弱 a …z
 弱 aj …n
 PIANO 弱 i + V
-HAPPY 弱 語末 i
+HAPPY 弱 ie ( 弱 æğ)
 INSULAR 弱 非語末 ø
+NOSE
+旧弱 語末 a, e, o, u
+→ 脱落
 註
-下線付きの長狭母音 (GOOSE, FLEECE) を担う綴りは、接語
-に於いて短音化した狭母音も担うとみなす。
-弱音節を担う場合、æ, ea, eo は a4 (a, e, o, u) と、y は i と同音
-価になるとみなす。
-� Vatanabe Takàjuki Segsyoxafu 2022-10-16
+長狭母音 (GOOSE, FLEECE) を担う綴りは、接語では短音化
+した狭母音も担うとみなす。
+弱音節に於いて æ, ea は a, o, u と、eo, y は e, i と同音価になる
+とみなす。
+� Vatanabe Takàjuki Segsyoxafu 2022-10-31
 � � Inglïsc: Konsonantz
 C…, CV… CC… …C …CC
 PIT p p pp
@@ -154,37 +154,39 @@ ng
 TUM m m mm
 mb
 LOCH (x) (x) (xx)
+SWALLOW C + ğ, w
 FIRE
 LETTER
-C + r PRIDE + r MOUTH + r 弱 a4/i/ø + r
+C + r PRIDE/MOUTH + r 弱 ar, or, ur, er, ir, ør
 NESTLE
 VESSEL
 C + l
-弱 a4 + l
+弱 al, el, ol, ul
 C + tl
 FASTEN
 LESSON
-C + n 弱 a4 + n
+C + n 弱 an, en, on, un
 C + tn
-� Vatanabe Takàjuki Segsyoxafu
-2022-10-16
+� Vatanabe Takàjuki Segsyoxafu 2022-10-31
 � 使用文字
 墨字 数
 子音字 (C) b, c, ç, d, ð, f, g, ğ, ġ, h, j, k,
 l, m, n, p, r, s, t, v, w, (x), z, þ 23–24
-36–38 母音字 (V) a, â, æ, e, ê, i, o, ô, ø, (ȯ), u, ů, y 12–13
+36–38 母音字 (V) a, â, æ, e, ê, i, o, ô, ø, (ǫ), u, ů, y 12–13
 被せ音字 ◌̄ 1
 分音記号
-◌̈ 直前文字からの分離
-◌́ 非語頭の第一強勢
-◌̀ 不弱化の非第一強勢 (� TRAP)
-◌̌ 非語末の HAPPY
+直前文字からの分離 ä, ë, ï, ö, ü,
+etc.
+非語頭の第一強勢 á, ǽ, é, í,
+ó, ǿ, ú, ý
+不弱化の非第一強勢
+(à: TRAP) à, è, ò, ù, etc.
 派生
 {g → ğ, ġ}
 {f → v}, {s → z}, {þ → ð}
 {a, æ, ea → â}, {e, eo → ê}, {o → ô}
 {u → ů}
-� {o → ȯ}
+� {o → ǫ}
 不使用 q
 代用表記
 ç → c
@@ -193,9 +195,9 @@ l, m, n, p, r, s, t, v, w, (x), z, þ 23–24
 þ → t
 â, æ → a
 ê → e
-ô, ø, ȯ → o
+ô, ø, ǫ → o
 ů → u
-� Vatanabe Takàjuki Segsyoxafu 2022-10-16
+� Vatanabe Takàjuki Segsyoxafu 2022-10-31
 
 【使用文字一覧】
 １文字扱い
