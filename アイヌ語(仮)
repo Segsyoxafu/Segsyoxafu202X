@@ -4,14 +4,42 @@
 2. u, i は形態素境界を超えて渡り音を生むので、分音との相性が悪い。cf. 接辞 a, eci とアクセント
 
 →音節頭の半母音を担う子音字はあった方が良い。v, j とする。
-		- 一般的な綴り w, y を変える程の理由は無い様に思われる。
-			- 特に VuV, ViV での u, i の音価がこれらの子音字の音価と中和すると考える場合、派生関係にあるかの様な字形の組み合わせよりもそうでない組み合わせの方がわかり易いかも知れない。
+	- 一般的な綴り w, y を変える程の理由は無い様に思われる。
+		- 特に VuV, ViV での u, i の音価がこれらの子音字の音価と中和すると考える場合、派生関係にあるかの様な字形の組み合わせよりもそうでない組み合わせの方がわかり易いかも知れない。
 
-1. 少なくとも共時的には子音字 v, j の音価より母音字 u, i の音価から作られる重母音の方が圧倒的に多い。
-2. 順行同化の主体には v がなるが、重母音は逆行同化の主体にならない。
-3. 少なくとも c は音節末に立たないので、v, j もそうでないとは言い切れない。
+1. 少なくとも共時的には子音字 w, y の音価より母音字 u, i の音価から作られる重母音の方が圧倒的に多い。
+2. 順行同化の主体には w がなるが、重母音は逆行同化の主体にならない。
+3. 少なくとも c は音節末に立たないので、w, y もそうでないとは言い切れない。
 
 →重母音の音韻的後部要素は u, i に担わせる。
+	- VuV, ViV では w, y と同音価になる。
+
+お試し4(アクセント間違ってるかも)
+iománte {i, omante}
+uenéusar {u, e, neusar}
+rú, rúe {rú, e}
+pauetok {pau, etok}
+pauasnu {pau, asnu}
+iwor
+
+yaieyúkar (yai, e, yukar)
+
+koitak {ko, itak}
+eikoitupa {e, ikoitupa}
+eukoitak {e, ukoitak}
+yaikoüepeker {yaiko, uepeker}
+kuiunin {ku, iunin}
+eiunin {e, iunin}
+
+kumokor {ku, mokor}
+kuitak {ku, itak}
+komap {ku, omap} (k'omap?)
+
+kuinkar
+kuikka
+ohaïnu
+
+---
 
 お試し3
 iomante {i, omante}
